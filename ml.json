@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "hero": "Aamon",
+    "type": "Skin",
+    "skin_name": "Basic",
+    "image": "322462.jpg",
+    "zip": "Sora basic.zip"
+  }
+]
