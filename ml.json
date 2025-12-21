@@ -1,23 +1,29 @@
-[
-  {
+{
+  "Aamon-1": {
     "hero": "Aamon",
     "type": "Skin",
     "skin_name": "Basic",
     "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246667851_Screenshot_20251219-224421.jpg",
-    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246670927_Sora%20basic.zip"
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246667851_Screenshot_20251219-224421.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246670927_Sora%20basic.zip",
+    "sort": 1
   },
-  {
+  "Aamon-2": {
     "hero": "Aamon",
     "type": "Skin",
     "skin_name": "Special",
     "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246785577_IMG_20251219_224449_961.jpg",
-    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246788413_RECALL%20M6%20TO%20TAS%20TAS.zip"
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246785577_IMG_20251219_224449_961.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766246788413_RECALL%20M6%20TO%20TAS%20TAS.zip",
+    "sort": 2
   },
-  {
+  "Aamon-3": {
     "hero": "Aamon",
     "type": "Skin",
     "skin_name": "Epic",
     "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766253384243_06c0e15d-3fdb-41bc-9c25-289212d234b7.jpeg",
-    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766253386543_RECALL%20M6%20TO%20TAS%20TAS.zip"
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766253384243_06c0e15d-3fdb-41bc-9c25-289212d234b7.jpeg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766253386543_RECALL%20M6%20TO%20TAS%20TAS.zip",
+    "sort": 3
   }
-]
+}
