@@ -25,7 +25,7 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766253384243_06c0e15d-3fdb-41bc-9c25-289212d234b7.jpeg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766253386543_RECALL%20M6%20TO%20TAS%20TAS.zip",
     "sort": 3
-  }, 
+  },
   "Aamon-1766315527819": {
     "hero": "Aamon",
     "type": "Skin",
@@ -34,5 +34,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766315525142_RECALL%20M6%20TO%20TAS%20TAS.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766315523005_1755599880856.3d5a606f-4a11-454d-bfcc-259b82e2125b.jpeg",
     "sort": 4
+  },
+  "Aamon-1766316056760": {
+    "hero": "Aamon",
+    "type": "Remove",
+    "skin_name": "Elite",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766316052184_12e101ba-b2a9-463b-8bb3-d340c6a42875.jpeg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766316054266_RECALL%20M6%20TO%20TAS%20TAS.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Aamon/1766316052184_12e101ba-b2a9-463b-8bb3-d340c6a42875.jpeg",
+    "sort": 5
   }
 }
