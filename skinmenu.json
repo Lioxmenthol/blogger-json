@@ -79,5 +79,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Esport/1766616098622_BACKUP%20INTRO.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Esport/1766616095618_20251224_214836.jpg",
     "sort": 3
+  },
+  "Custom Joystick-1766616348115": {
+    "hero": "Custom Joystick",
+    "type": "Remove",
+    "skin_name": "Delete Joystick",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766616342904_20251225_015512.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766616345802_BACKUP%20JOYSTICK.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766616342904_20251225_015512.jpg",
+    "sort": 2
   }
 }
