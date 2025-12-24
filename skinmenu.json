@@ -70,5 +70,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Anime/1766616039287_BACKUP%20INTRO.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Anime/1766616036690_20251224_214836.jpg",
     "sort": 3
+  },
+  "Intro Versi Esport-1766616101669": {
+    "hero": "Intro Versi Esport",
+    "type": "Remove",
+    "skin_name": "Delete Intro",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Esport/1766616095618_20251224_214836.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Esport/1766616098622_BACKUP%20INTRO.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Esport/1766616095618_20251224_214836.jpg",
+    "sort": 3
   }
 }
