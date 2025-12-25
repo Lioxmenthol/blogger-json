@@ -34,5 +34,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766616345802_BACKUP%20JOYSTICK.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766616342904_20251225_015512.jpg",
     "sort": 2
+  },
+  "Custom Map-1766616348116": {
+    "hero": "Custom Map",
+    "type": "Remove",
+    "skin_name": "Delete Map",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/20251225_015434.jpg",
+    "url": "https://github.com/Lioxmenthol/Lioxmenthol.github.io/releases/download/1/DELETE.MAP.zip",
+    "img2": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/20251225_015434.jpg",
+    "sort": 1
   }
 }
