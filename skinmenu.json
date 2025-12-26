@@ -52,5 +52,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766751352789_MAP%20REALISTIC%20HIGH%20GRAFIK.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766751349000_20251226_201017.jpg",
     "sort": 2
+  },
+  "Custom Map-1766753792151": {
+    "hero": "Custom Map",
+    "type": "Skin",
+    "skin_name": "Map League of Legend ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766753763735_20251226_205533.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766753767673_MAP%20LEAGUE%20OF%20LEGEND%20SET%20HIGH.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766753763735_20251226_205533.jpg",
+    "sort": 3
   }
 }
