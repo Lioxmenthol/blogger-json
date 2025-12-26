@@ -61,5 +61,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766753767673_MAP%20LEAGUE%20OF%20LEGEND%20SET%20HIGH.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1766753763735_20251226_205533.jpg",
     "sort": 3
+  },
+  "Custom Joystick-1766754827511": {
+    "hero": "Custom Joystick",
+    "type": "Skin",
+    "skin_name": "Joystick ~ Kobeni Higashiyama",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766754821733_20251226_210943.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766754824689_JOYSTICK%20KOBENI%20HIGASHIYAMA.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766754821733_20251226_210943.jpg",
+    "sort": 3
   }
 }
