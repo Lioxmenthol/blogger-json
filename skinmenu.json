@@ -79,5 +79,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767004030493_DELETE%20BACKGROUND.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767004027983_20251225_015550.jpg",
     "sort": 1
+  },
+  "Custom Background-1767008853551": {
+    "hero": "Custom Background",
+    "type": "Skin",
+    "skin_name": "CeCan Warinnasiri",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767008848318_1767007409773.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767008851055_BACK%20CECAN%20WARINNASIRI.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767008848318_1767007409773.jpg",
+    "sort": 2
   }
 }
