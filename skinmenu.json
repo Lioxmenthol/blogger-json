@@ -70,5 +70,14 @@
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766755317456_JOYSTICK%20NAKANO%20NINO.zip",
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1766755314261_20251226_211813.jpg",
     "sort": 4
+  },
+  "Custom Background-1767004032505": {
+    "hero": "Custom Background",
+    "type": "Remove",
+    "skin_name": "Delete map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767004027983_20251225_015550.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767004030493_DELETE%20BACKGROUND.zip",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Background/1767004027983_20251225_015550.jpg",
+    "sort": 1
   }
 }
