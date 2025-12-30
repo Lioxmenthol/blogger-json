@@ -142,5 +142,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078297544_20251230_150347.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078297652_MAP%20SPONGEBOBS%20SET%20MEDIUM.zip",
     "sort": 4
+  },
+  "Custom Map-1767078908674": {
+    "hero": "Custom Map",
+    "type": "Skin",
+    "skin_name": "Map Pink Sakura ~ Set Medium ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078904479_20251230_151411.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078904479_20251230_151411.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078904605_MAP%20PINK%20SAKURA%20SET%20MEDIUM.zip",
+    "sort": 5
   }
 }
