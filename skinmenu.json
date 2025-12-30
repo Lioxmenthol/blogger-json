@@ -133,5 +133,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Anime/1767075643751_IMG_20251230_141727_978.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Intro%20Versi%20Anime/1767075643810_JJK%20INTRO%20VERSI%20ANIME.zip",
     "sort": 6
+  },
+  "Custom Map-1767078302159": {
+    "hero": "Custom Map",
+    "type": "Skin",
+    "skin_name": "Map Spongebobs ~ Set Medium ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078297544_20251230_150347.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078297544_20251230_150347.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078297652_MAP%20SPONGEBOBS%20SET%20MEDIUM.zip",
+    "sort": 4
   }
 }
