@@ -1,21 +1,46 @@
 [
   {
+    "type": "image",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0003.jpg"
+  },
+  {
+    "type": "video",
     "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0003.jpg",
     "video": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Adriana%20Suci.mp4"
   },
   {
+    "type": "image",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0000.jpg"
+  },
+  {
+    "type": "video",
     "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0000.jpg",
     "video": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Anggi.mp4"
   },
   {
+    "type": "image",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0001.jpg"
+  },
+  {
+    "type": "video",
     "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0001.jpg",
     "video": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Eunbi.mp4"
   },
   {
+    "type": "image",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0002.jpg"
+  },
+  {
+    "type": "video",
     "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0002.jpg",
     "video": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Duo%20Tobrut.mp4"
   },
   {
+    "type": "image",
+    "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0004.jpg"
+  },
+  {
+    "type": "video",
     "img": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/IMG-20251231-WA0004.jpg",
     "video": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Saylviee.mp4"
   }
