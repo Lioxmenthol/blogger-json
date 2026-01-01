@@ -151,5 +151,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078904479_20251230_151411.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Map/1767078904605_MAP%20PINK%20SAKURA%20SET%20MEDIUM.zip",
     "sort": 5
+  },
+  "Custom Joystick-1767238059437": {
+    "hero": "Custom Joystick",
+    "type": "Skin",
+    "skin_name": "Nakano Nino",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1767238056925_IMG-20251231-WA0004.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1767238056925_IMG-20251231-WA0004.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Custom%20Joystick/1767238057011_JOYSTICK%20NAKANO%20NINO.zip",
+    "sort": 5
   }
 }
