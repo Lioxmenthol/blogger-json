@@ -88,5 +88,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767330239433_20251226_210943.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767330239459_Kobeni%20Higashiyama.zip",
     "sort": 3
+  },
+  "Preview Intro-1767330722605": {
+    "hero": "Preview Intro",
+    "type": "Skin",
+    "skin_name": "Toji Fushiguro",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767330717177_IMG_20260102_131127_442.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767330717177_IMG_20260102_131127_442.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767330717386_Toji%20Fushiguro.zip",
+    "sort": 6
   }
 }
