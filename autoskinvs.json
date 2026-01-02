@@ -241,5 +241,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367372357_Screenshot_20260102-225425.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367372526_CeCan.zip",
     "sort": 13
+  },
+  "Preview Intro-1767367409543": {
+    "hero": "Preview Intro",
+    "type": "Skin",
+    "skin_name": "Anggi",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367406233_IMG_20260102_225810_472.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367406233_IMG_20260102_225810_472.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367406360_Anggi.zip",
+    "sort": 14
   }
 }
