@@ -205,5 +205,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767345518728_Screenshot_20260102-171806.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767345518814_Spongebobs.zip",
     "sort": 2
+  },
+  "Preview Joystick-1767345925060": {
+    "hero": "Preview Joystick",
+    "type": "Skin",
+    "skin_name": "Sharingan Madara",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767345922463_20260102_172312.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767345922463_20260102_172312.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767345922500_sharinggan%20madara.zip",
+    "sort": 4
   }
 }
