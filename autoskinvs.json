@@ -52,5 +52,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767324612686_Screenshot_20260102-112937.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767324612799_X3%20DRONE%20VIEW.zip",
     "sort": 2
+  },
+  "Preview Intro-1767329498967": {
+    "hero": "Preview Intro",
+    "type": "Skin",
+    "skin_name": "Transisi",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767329492425_IMG_20260102_125107_198.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767329492425_IMG_20260102_125107_198.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767329492869_TRANSISI%20INTRO.zip",
+    "sort": 3
   }
 }
