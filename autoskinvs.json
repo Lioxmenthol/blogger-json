@@ -151,5 +151,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332403342_Screenshot_20260102-133926.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332403559_Saylviee.zip",
     "sort": 12
+  },
+  "Preview Emote-1767343872879": {
+    "hero": "Preview Emote",
+    "type": "Remove",
+    "skin_name": "Delete Emote",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767343869877_20260102_011922.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767343869877_20260102_011922.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767343869939_delete%20emoji.zip",
+    "sort": 1
   }
 }
