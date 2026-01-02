@@ -268,5 +268,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367542774_IMG_20260102_225830_824.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367542875_Niyaaay.zip",
     "sort": 17
+  },
+  "Preview Drone View-1767390830898": {
+    "hero": "Preview Drone View",
+    "type": "Skin",
+    "skin_name": "Drone View x2",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767390825566_Screenshot_20260102-235822.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767390825566_Screenshot_20260102-235822.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767390825649_X2%20DRONE%20VIEW.zip",
+    "sort": 2
   }
 }
