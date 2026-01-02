@@ -187,5 +187,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767345096357_20260102_171033.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767345096402_m6%20to%20abbysal%20thunder.zip",
     "sort": 2
+  },
+  "Preview Eliminasi-1767345259468": {
+    "hero": "Preview Eliminasi",
+    "type": "Remove",
+    "skin_name": "Hapus Kill",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767345256072_20260102_012005.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767345256072_20260102_012005.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767345256128_hapus%20kill.zip",
+    "sort": 1
   }
 }
