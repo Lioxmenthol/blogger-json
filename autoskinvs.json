@@ -169,5 +169,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767344140995_20260102_011936.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767344141111_delete%20recall.zip",
     "sort": 1
+  },
+  "Preview Trail-1767344337344": {
+    "hero": "Preview Trail",
+    "type": "Remove",
+    "skin_name": "Delete Trail",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767344334869_20260102_012133.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767344334869_20260102_012133.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767344334929_delete%20trail.zip",
+    "sort": 1
   }
 }
