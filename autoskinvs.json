@@ -133,5 +133,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332053285_IMG_20260102_133334_435.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332053399_Eunbi.zip",
     "sort": 10
+  },
+  "Preview Intro-1767332236118": {
+    "hero": "Preview Intro",
+    "type": "Skin",
+    "skin_name": "Transisi ~ Eunbi v2",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332232661_Screenshot_20260102-133639.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332232661_Screenshot_20260102-133639.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767332232733_Eunbi%20v2.zip",
+    "sort": 11
   }
 }
