@@ -79,5 +79,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767329887680_IMG_20260102_125712_847.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767329887814_JJK%20INTRO%20VERSI%20ANIME.zip",
     "sort": 5
+  },
+  "Preview Joystick-1767330242995": {
+    "hero": "Preview Joystick",
+    "type": "Skin",
+    "skin_name": "Kobeni Higashiyama",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767330239433_20251226_210943.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767330239433_20251226_210943.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767330239459_Kobeni%20Higashiyama.zip",
+    "sort": 3
   }
 }
