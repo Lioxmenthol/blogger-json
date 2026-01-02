@@ -295,5 +295,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767390956381_Screenshot_20260103-003243.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767390956588_X4%20DRONE%20VIEW.zip",
     "sort": 4
+  },
+  "Preview Drone View-1767391010534": {
+    "hero": "Preview Drone View",
+    "type": "Skin",
+    "skin_name": "Drone View x5",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767391004964_Screenshot_20260103-002358.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767391004964_Screenshot_20260103-002358.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Drone%20View/1767391005055_X5%20DRONE%20VIEW.zip",
+    "sort": 5
   }
 }
