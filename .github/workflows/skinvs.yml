@@ -1,0 +1,75 @@
+name: SkinVS Manager
+
+on:
+  repository_dispatch:
+    types: [upload-skin, rename-skin, delete-skin]
+
+jobs:
+  manage-skin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Handle Skin Action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Start processing..."
+          PAYLOAD=$(cat $GITHUB_EVENT_PATH)
+          EVENT_TYPE=$(echo $PAYLOAD | jq -r '.action_type // .action_type')  # fallback
+          echo "Event type: $EVENT_TYPE"
+
+          JSON_FILE="autoskinvs.json"
+          mkdir -p tmp
+          if [ ! -f "$JSON_FILE" ]; then
+            echo "{}" > "$JSON_FILE"
+          fi
+
+          CONTENT=$(cat "$JSON_FILE")
+
+          if [ "$(echo $PAYLOAD | jq -r '.client_payload')" != "null" ]; then
+            HERO=$(echo $PAYLOAD | jq -r '.client_payload.hero')
+            SKIN_NAME=$(echo $PAYLOAD | jq -r '.client_payload.skin_name')
+            IMG=$(echo $PAYLOAD | jq -r '.client_payload.img')
+            URL=$(echo $PAYLOAD | jq -r '.client_payload.url')
+          fi
+
+          case $(echo $PAYLOAD | jq -r '.event_type') in
+            upload-skin)
+              echo "Uploading skin..."
+              SORT=$(echo $CONTENT | jq "[.[] | select(.hero==\"$HERO\")] | map(.sort // 0) | max // 0")
+              NEW_SORT=$((SORT + 1))
+              TIMESTAMP=$(date +%s)
+              NEW_KEY="${HERO}-${TIMESTAMP}"
+              UPDATED=$(echo $CONTENT | jq ".\"$NEW_KEY\"={hero: \"$HERO\", skin_name: \"$SKIN_NAME\", type: \"${PAYLOAD.client_payload.type}\", img: \"$IMG\", url: \"$URL\", sort: $NEW_SORT}")
+              echo "$UPDATED" > "$JSON_FILE"
+              ;;
+
+            rename-skin)
+              echo "Renaming skin..."
+              KEY=$(echo $PAYLOAD | jq -r '.client_payload.key')
+              NEW_NAME=$(echo $PAYLOAD | jq -r '.client_payload.new_name')
+              UPDATED=$(echo $CONTENT | jq ".\"$KEY\".skin_name=\"$NEW_NAME\"")
+              echo "$UPDATED" > "$JSON_FILE"
+              ;;
+
+            delete-skin)
+              echo "Deleting skin..."
+              KEY=$(echo $PAYLOAD | jq -r '.client_payload.key')
+              UPDATED=$(echo $CONTENT | jq "del(.\"$KEY\")")
+              echo "$UPDATED" > "$JSON_FILE"
+              ;;
+          esac
+
+          # Commit & push changes
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add "$JSON_FILE"
+          git commit -m "Update skin via GitHub Action"
+          git push origin main
+          echo "Done!"
