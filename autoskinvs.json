@@ -160,5 +160,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767343869877_20260102_011922.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767343869939_delete%20emoji.zip",
     "sort": 1
+  },
+  "Preview Recall-1767344145945": {
+    "hero": "Preview Recall",
+    "type": "Remove",
+    "skin_name": "Delete Recall",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767344140995_20260102_011936.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767344140995_20260102_011936.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767344141111_delete%20recall.zip",
+    "sort": 1
   }
 }
