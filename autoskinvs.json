@@ -16,5 +16,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767323575399_IMG_20260102_111233_065.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767323575517_JEDAG%20JEDUG%20INTRO.zip",
     "sort": 2
+  },
+  "Preview Joystick-1767323694529": {
+    "hero": "Preview Joystick",
+    "type": "Remove",
+    "skin_name": "Delete Joystick",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767323691630_20260102_011806.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767323691630_20260102_011806.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Joystick/1767323691673_DELETE%20JOYSTICK.zip",
+    "sort": 1
   }
 }
