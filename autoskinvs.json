@@ -268,5 +268,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367489756_IMG_20260102_225743_880.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367489819_Jedag%20Jedug%20Duo%20Tobrut.zip",
     "sort": 16
+  },
+  "Preview Intro-1767367545826": {
+    "hero": "Preview Intro",
+    "type": "Skin",
+    "skin_name": "Niyaaay",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367542774_IMG_20260102_225830_824.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367542774_IMG_20260102_225830_824.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Intro/1767367542875_Niyaaay.zip",
+    "sort": 17
   }
 }
