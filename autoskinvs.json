@@ -970,5 +970,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/K.O_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452465553_K.O.zip",
     "sort": 6
+  },
+  "Preview Eliminasi-1767452507617": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "R.I.P",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/R.I.P_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/R.I.P_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452505518_R.I.P.zip",
+    "sort": 7
   }
 }
