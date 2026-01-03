@@ -1033,5 +1033,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Thunder_Strikes_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452676177_thunder%20S.zip",
     "sort": 13
+  },
+  "Preview Eliminasi-1767452858006": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "The Future",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Elimination_of_the_Future_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Elimination_of_the_Future_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452855308_the%20future.zip",
+    "sort": 14
   }
 }
