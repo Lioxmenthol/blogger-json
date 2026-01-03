@@ -1186,5 +1186,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456070362_20260103_235733.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456070681_MAP%20TOL%20V2.zip",
     "sort": 12
+  },
+  "Preview Map-1767456277481": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Spongebobs",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456272989_20251230_150347.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456272989_20251230_150347.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456273066_MAP%20SPONGEBOBS.zip",
+    "sort": 13
   }
 }
