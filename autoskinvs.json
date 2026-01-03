@@ -520,5 +520,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Long-Legged.png/revision/latest/top-crop/width/220/height/220?cb=20200709144806",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767430608881_long%20legend.zip",
     "sort": 25
+  },
+  "Preview Emote-1767432564693": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Dragon Shiryu",
+    "img": "https://github.com/lanz132/1.75/raw/main/26.png",
+    "img2": "https://github.com/lanz132/1.75/raw/main/26.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432562649_chou%20saint%20S.zip",
+    "sort": 26
   }
 }
