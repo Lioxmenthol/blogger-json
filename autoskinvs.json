@@ -430,5 +430,14 @@
     "img2": "https://github.com/lanz132/1.75/raw/main/23.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767422644299_Kagura%20exo.zip",
     "sort": 15
+  },
+  "Preview Emote-1767422716525": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Ling Starlight",
+    "img": "https://github.com/pleaset/1.20/raw/main/Ling.png",
+    "img2": "https://github.com/pleaset/1.20/raw/main/Ling.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767422712689_ling%20star.zip",
+    "sort": 16
   }
 }
