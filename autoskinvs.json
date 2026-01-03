@@ -475,5 +475,14 @@
     "img2": "https://github.com/pleaset/img/raw/main/chang%20e.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767429315551_change.zip",
     "sort": 20
+  },
+  "Preview Emote-1767429383032": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Alpha Abbys",
+    "img": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
+    "img2": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767429380041_Alpha%20abbys.zip",
+    "sort": 21
   }
 }
