@@ -754,5 +754,14 @@
     "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/7.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437181267_Alucard%20legend.zip",
     "sort": 18
+  },
+  "Preview Recall-1767437213263": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Franco Legend",
+    "img": "https://github.com/lanz132/1.74/raw/main/R9.jpg",
+    "img2": "https://github.com/lanz132/1.74/raw/main/R9.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437210559_franco%20legend.zip",
+    "sort": 19
   }
 }
