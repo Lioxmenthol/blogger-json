@@ -781,5 +781,14 @@
     "img2": "https://github.com/lanz132/1.78/raw/main/Screenshot_2023-07-02-02-04-45-240_mobile.legends.patcher-edit.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437296235_Lunox%20legend.zip",
     "sort": 21
+  },
+  "Preview Recall-1767437338482": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Lesley Legend",
+    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/2.jpg",
+    "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/2.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437335758_lesley%20legend.zip",
+    "sort": 22
   }
 }
