@@ -988,5 +988,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Roaming_Ghost_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452531366_Ghost.zip",
     "sort": 8
+  },
+  "Preview Eliminasi-1767452558027": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "Super Kill",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Super_Kill_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Super_Kill_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452555673_super%20kill.zip",
+    "sort": 9
   }
 }
