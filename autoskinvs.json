@@ -1114,5 +1114,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454833654_IMG-20260103-WA0032.jpg",
     "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20YELLOW%20HD%20SANCTUM.zip",
     "sort": 4
+  },
+  "Preview Map-1767454927363": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Flower Naruto ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454925122_IMG-20260103-WA0030.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454925122_IMG-20260103-WA0030.jpg",
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20NARUTO%20FLOWER%20SANCTUM.zip",
+    "sort": 5
   }
 }
