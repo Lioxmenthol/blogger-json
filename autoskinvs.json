@@ -943,5 +943,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/STAR_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452322834_star.zip",
     "sort": 3
+  },
+  "Preview Eliminasi-1767452356246": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "Calamity",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Calamity%27s_End_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Calamity%27s_End_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452354450_calamity.zip",
+    "sort": 4
   }
 }
