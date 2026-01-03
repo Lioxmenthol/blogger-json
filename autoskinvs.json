@@ -556,5 +556,14 @@
     "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Dyrroth%20kof.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432766411_dyrrot%20kif.zip",
     "sort": 29
+  },
+  "Preview Emote-1767432800747": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Gusion Kof",
+    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Gusion%20kof.png",
+    "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Gusion%20kof.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432798505_gusion%20kof.zip",
+    "sort": 30
   }
 }
