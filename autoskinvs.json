@@ -1159,5 +1159,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455290000_IMG-20260103-WA0028.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455290402_MAP%20LEAGUE%20OF%20LEGEND.zip",
     "sort": 9
+  },
+  "Preview Map-1767455729373": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Realistic ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455720102_20251226_201017.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455720102_20251226_201017.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455720360_MAP%20REALISTIC.zip",
+    "sort": 10
   }
 }
