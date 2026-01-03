@@ -565,5 +565,14 @@
     "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Gusion%20kof.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432798505_gusion%20kof.zip",
     "sort": 30
+  },
+  "Preview Emote-1767432846297": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Karina Kof",
+    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Karina%20kof.png",
+    "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Karina%20kof.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432844211_karina%20kif.zip",
+    "sort": 31
   }
 }
