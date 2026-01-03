@@ -808,5 +808,14 @@
     "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/4.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437419201_miya%20legend.zip",
     "sort": 24
+  },
+  "Preview Recall-1767437460198": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Gord Legend",
+    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/5.jpg",
+    "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/5.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437456867_gord%20legend.zip",
+    "sort": 25
   }
 }
