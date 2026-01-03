@@ -1078,5 +1078,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Knockout_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767453156436_knouckout.zip",
     "sort": 19
+  },
+  "Preview Map-1767453746329": {
+    "hero": "Preview Map",
+    "type": "Remove",
+    "skin_name": "Delete Map",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767453743392_20260102_011831.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767453743392_20260102_011831.jpg",
+    "url": "https://github.com/Lioxmenthol/SC-ASSASIN-2025/releases/download/1.1/BACKUP.MAP.SANCTUM.zip",
+    "sort": 1
   }
 }
