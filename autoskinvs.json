@@ -529,5 +529,14 @@
     "img2": "https://github.com/lanz132/1.75/raw/main/26.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432562649_chou%20saint%20S.zip",
     "sort": 26
+  },
+  "Preview Emote-1767432604320": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Chou Dawning",
+    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Chou%20hero.png",
+    "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Chou%20hero.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432601657_chou%20hero.zip",
+    "sort": 27
   }
 }
