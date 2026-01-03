@@ -1123,5 +1123,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454925122_IMG-20260103-WA0030.jpg",
     "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20NARUTO%20FLOWER%20SANCTUM.zip",
     "sort": 5
+  },
+  "Preview Map-1767454965168": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Pro Max ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454962779_IMG-20260103-WA0035.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454962779_IMG-20260103-WA0035.jpg",
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PROMAX%20SANCTUM.zip",
+    "sort": 6
   }
 }
