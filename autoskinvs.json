@@ -502,5 +502,14 @@
     "img2": "https://github.com/pleaset/img/raw/main/selena.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767430512665_selena%20stun.zip",
     "sort": 23
+  },
+  "Preview Emote-1767430546756": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Chou Stun",
+    "img": "https://github.com/pleaset/img/raw/main/PicsArt_04-18-06.40.53.png",
+    "img2": "https://github.com/pleaset/img/raw/main/PicsArt_04-18-06.40.53.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767430544643_chou%20stun.zip",
+    "sort": 24
   }
 }
