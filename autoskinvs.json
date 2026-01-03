@@ -1168,5 +1168,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455720102_20251226_201017.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455720360_MAP%20REALISTIC.zip",
     "sort": 10
+  },
+  "Preview Map-1767455891912": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Mpl ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455884379_20260103_235733.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455884379_20260103_235733.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455884770_MAP%20MPL.zip",
+    "sort": 11
   }
 }
