@@ -718,5 +718,14 @@
     "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/33.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437021255_fire%20crown.zip",
     "sort": 14
+  },
+  "Preview Recall-1767437061320": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Exorcist",
+    "img": "https://github.com/lanz132/1.74/raw/main/R5.jpg",
+    "img2": "https://github.com/lanz132/1.74/raw/main/R5.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437058653_Exorcist.zip",
+    "sort": 15
   }
 }
