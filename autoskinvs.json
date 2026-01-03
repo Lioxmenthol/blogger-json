@@ -997,5 +997,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Super_Kill_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452555673_super%20kill.zip",
     "sort": 9
+  },
+  "Preview Eliminasi-1767452584359": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "The Sword",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452581682_teh%20sword.zip",
+    "sort": 10
   }
 }
