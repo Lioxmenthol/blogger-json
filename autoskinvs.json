@@ -979,5 +979,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/R.I.P_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452505518_R.I.P.zip",
     "sort": 7
+  },
+  "Preview Eliminasi-1767452533083": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "Roaming Ghost",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Roaming_Ghost_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Roaming_Ghost_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452531366_Ghost.zip",
+    "sort": 8
   }
 }
