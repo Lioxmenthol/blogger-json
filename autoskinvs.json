@@ -1195,5 +1195,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456494849_20251230_151411.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456494925_MAP%20SAKURA%20PINK.zip",
     "sort": 14
+  },
+  "Preview Map-1767456607517": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Tol v2",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456601326_20260104_000020.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456601326_20260104_000020.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456601635_MAP%20TOL%20V2.zip",
+    "sort": 15
   }
 }
