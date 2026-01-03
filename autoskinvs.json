@@ -538,5 +538,14 @@
     "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Chou%20hero.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432601657_chou%20hero.zip",
     "sort": 27
+  },
+  "Preview Emote-1767432733114": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Chou Kof",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest/top-crop/width/220/height/220?cb=20200709164919",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest/top-crop/width/220/height/220?cb=20200709164919",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432730405_chou%20kof.zip",
+    "sort": 28
   }
 }
