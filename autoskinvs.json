@@ -1132,5 +1132,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454962779_IMG-20260103-WA0035.jpg",
     "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PROMAX%20SANCTUM.zip",
     "sort": 6
+  },
+  "Preview Map-1767455044760": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Sand ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455042094_IMG-20260103-WA0034.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455042094_IMG-20260103-WA0034.jpg",
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PASIR%20SANCTUM.zip",
+    "sort": 7
   }
 }
