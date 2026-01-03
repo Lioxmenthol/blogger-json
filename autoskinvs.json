@@ -547,5 +547,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Am_I_Scary.png/revision/latest/top-crop/width/220/height/220?cb=20200709164919",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432730405_chou%20kof.zip",
     "sort": 28
+  },
+  "Preview Emote-1767432768412": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Dyrroth Kof",
+    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Dyrroth%20kof.png",
+    "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Dyrroth%20kof.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432766411_dyrrot%20kif.zip",
+    "sort": 29
   }
 }
