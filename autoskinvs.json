@@ -1177,5 +1177,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455884379_20260103_235733.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455884770_MAP%20MPL.zip",
     "sort": 11
+  },
+  "Preview Map-1767456077891": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Tol v2 ~ Set High ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456070362_20260103_235733.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456070362_20260103_235733.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456070681_MAP%20TOL%20V2.zip",
+    "sort": 12
   }
 }
