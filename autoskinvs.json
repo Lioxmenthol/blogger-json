@@ -1006,5 +1006,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/The_Elimination_of_The_Sword_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452581682_teh%20sword.zip",
     "sort": 10
+  },
+  "Preview Eliminasi-1767452615451": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "Time to Celebrate",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Time_to_Celebrate_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Time_to_Celebrate_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452612628_celebrate.zip",
+    "sort": 11
   }
 }
