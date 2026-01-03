@@ -772,5 +772,14 @@
     "img2": "https://github.com/lanz132/2.0/raw/main/IMG_20220415_150112.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437262858_guin%20legend.zip",
     "sort": 20
+  },
+  "Preview Recall-1767437298030": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Lunox Legend",
+    "img": "https://github.com/lanz132/1.78/raw/main/Screenshot_2023-07-02-02-04-45-240_mobile.legends.patcher-edit.jpg",
+    "img2": "https://github.com/lanz132/1.78/raw/main/Screenshot_2023-07-02-02-04-45-240_mobile.legends.patcher-edit.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437296235_Lunox%20legend.zip",
+    "sort": 21
   }
 }
