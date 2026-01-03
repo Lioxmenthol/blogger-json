@@ -790,5 +790,14 @@
     "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/2.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437335758_lesley%20legend.zip",
     "sort": 22
+  },
+  "Preview Recall-1767437394207": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Saber Legend",
+    "img": "https://github.com/lanz132/RECALL-IMG/raw/main/3.jpg",
+    "img2": "https://github.com/lanz132/RECALL-IMG/raw/main/3.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767437391747_saber%20legend.zip",
+    "sort": 23
   }
 }
