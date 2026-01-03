@@ -484,5 +484,14 @@
     "img2": "https://github.com/lanz132/Elimination/raw/main/abyss%20emote.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767429380041_Alpha%20abbys.zip",
     "sort": 21
+  },
+  "Preview Emote-1767429470808": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Brody Stun",
+    "img": "https://github.com/pleaset/img/raw/main/brody.png",
+    "img2": "https://github.com/pleaset/img/raw/main/brody.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767429468337_brody%20stun.zip",
+    "sort": 22
   }
 }
