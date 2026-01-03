@@ -1195,5 +1195,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456272989_20251230_150347.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456273066_MAP%20SPONGEBOBS.zip",
     "sort": 13
+  },
+  "Preview Map-1767456499180": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Sakura Pink ~ Set Medium ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456494849_20251230_151411.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456494849_20251230_151411.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456494925_MAP%20SAKURA%20PINK.zip",
+    "sort": 14
   }
 }
