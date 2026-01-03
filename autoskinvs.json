@@ -583,5 +583,14 @@
     "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Aurora%20kof.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432873067_Aurora%20kof.zip",
     "sort": 32
+  },
+  "Preview Emote-1767432906221": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Guinnevere Kof",
+    "img": "https://github.com/BANGMAMET1995/emote/raw/main/Guinevere%20kof.png",
+    "img2": "https://github.com/BANGMAMET1995/emote/raw/main/Guinevere%20kof.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767432904072_Guinevere%20kof.zip",
+    "sort": 33
   }
 }
