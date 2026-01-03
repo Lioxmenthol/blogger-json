@@ -1141,5 +1141,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455042094_IMG-20260103-WA0034.jpg",
     "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20PASIR%20SANCTUM.zip",
     "sort": 7
+  },
+  "Preview Map-1767455084351": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "China ~ Set Medium ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455082264_IMG-20260103-WA0029.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767455082264_IMG-20260103-WA0029.jpg",
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20CHINA%20SANCTUM.zip",
+    "sort": 8
   }
 }
