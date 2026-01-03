@@ -1105,5 +1105,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454771792_IMG-20260103-WA0031.jpg",
     "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20SNOW%20V2%20SANCTUM.zip",
     "sort": 3
+  },
+  "Preview Map-1767454836397": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Yellow ~ Set Medium ~ Sanctum Island",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454833654_IMG-20260103-WA0032.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767454833654_IMG-20260103-WA0032.jpg",
+    "url": "https://github.com/Lioxmenthol/SC-MAP-2025/raw/refs/heads/main/MAP%20YELLOW%20HD%20SANCTUM.zip",
+    "sort": 4
   }
 }
