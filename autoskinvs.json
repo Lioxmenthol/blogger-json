@@ -628,5 +628,14 @@
     "img2": "https://i.ibb.co.com/xYSCSsm/recallesporttlph.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767436565421_Esport%20TLPH.zip",
     "sort": 4
+  },
+  "Preview Recall-1767436615594": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Esport Tlid",
+    "img": "https://i.ibb.co.com/CVQCzxw/recallesporttlid.jpg",
+    "img2": "https://i.ibb.co.com/CVQCzxw/recallesporttlid.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767436611749_Esport%20TLID.zip",
+    "sort": 5
   }
 }
