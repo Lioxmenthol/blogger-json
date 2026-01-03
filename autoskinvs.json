@@ -619,5 +619,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Love_Ya%21.png/revision/latest/scale-to-width-down/340?cb=20200710045046",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767433102799_live%20ya.zip",
     "sort": 36
+  },
+  "Preview Recall-1767436569067": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Esport Tlph",
+    "img": "https://i.ibb.co.com/xYSCSsm/recallesporttlph.jpg",
+    "img2": "https://i.ibb.co.com/xYSCSsm/recallesporttlph.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767436565421_Esport%20TLPH.zip",
+    "sort": 4
   }
 }
