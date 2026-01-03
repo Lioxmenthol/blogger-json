@@ -637,5 +637,14 @@
     "img2": "https://i.ibb.co.com/CVQCzxw/recallesporttlid.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767436611749_Esport%20TLID.zip",
     "sort": 5
+  },
+  "Preview Recall-1767436643615": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Esport Geek",
+    "img": "https://i.ibb.co.com/XbN5s0p/recallesportgeek.jpg",
+    "img2": "https://i.ibb.co.com/XbN5s0p/recallesportgeek.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767436640900_Esport%20geek.zip",
+    "sort": 6
   }
 }
