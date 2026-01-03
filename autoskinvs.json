@@ -1024,5 +1024,14 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Elimination_of_the_Storm_Elimination_Effect.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452637898_the%20storm.zip",
     "sort": 12
+  },
+  "Preview Eliminasi-1767452678269": {
+    "hero": "Preview Eliminasi",
+    "type": "Skin",
+    "skin_name": "Thunder Strikes",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Thunder_Strikes_Elimination_Effect.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Thunder_Strikes_Elimination_Effect.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Eliminasi/1767452676177_thunder%20S.zip",
+    "sort": 13
   }
 }
