@@ -1204,5 +1204,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456601326_20260104_000020.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1767456601635_MAP%20TOL%20V2.zip",
     "sort": 15
+  },
+  "Preview Recall-1767457140190": {
+    "hero": "Preview Recall",
+    "type": "Skin",
+    "skin_name": "Sound Horeg",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767457136320_IMG_20260104_001310_550.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767457136320_IMG_20260104_001310_550.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Recall/1767457136407_RECALL%20SOUND%20HEREX.zip",
+    "sort": 28
   }
 }
