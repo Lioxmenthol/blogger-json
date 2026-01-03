@@ -394,5 +394,14 @@
     "img2": "https://i.ibb.co.com/tDKYKwt/20250109-100540.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767422336000_AAHHhh.zip",
     "sort": 11
+  },
+  "Preview Emote-1767422371004": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Ruby Aspirant",
+    "img": "https://github.com/lanz132/1.75/raw/main/28.png",
+    "img2": "https://github.com/lanz132/1.75/raw/main/28.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767422369216_ruby%20aspirant.zip",
+    "sort": 12
   }
 }
