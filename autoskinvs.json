@@ -1231,5 +1231,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580938296_IMG_20260105_104050_379.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580938386_TRAIL%20YU%20ZHONG%20PRIME.zip",
     "sort": 14
+  },
+  "Preview Emote-1767631155899": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Dyrroth Crying",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631153279_IMG_20260106_003717_378.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631153279_IMG_20260106_003717_378.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631153326_EMOTE%20DYROT%20CRYING.zip",
+    "sort": 37
   }
 }
