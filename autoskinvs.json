@@ -1222,5 +1222,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580902094_IMG_20260105_104040_703.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580902128_TRAIL%20CLAUDE%20PRIME.zip",
     "sort": 13
+  },
+  "Preview Trail-1767580942537": {
+    "hero": "Preview Trail",
+    "type": "Skin",
+    "skin_name": "Yu Zhong Prime",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580938296_IMG_20260105_104050_379.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580938296_IMG_20260105_104050_379.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Trail/1767580938386_TRAIL%20YU%20ZHONG%20PRIME.zip",
+    "sort": 14
   }
 }
