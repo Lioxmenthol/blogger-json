@@ -1366,5 +1366,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782443335_IMG_20260107_183033_424.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782443389_MSC.zip",
     "sort": 12
+  },
+  "Preview Spawn-1767782485492": {
+    "hero": "Preview Spawn",
+    "type": "Skin",
+    "skin_name": "Mcl",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782483270_IMG_20260107_183057_443.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782483270_IMG_20260107_183057_443.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782483322_MCL.zip",
+    "sort": 13
   }
 }
