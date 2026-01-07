@@ -1294,5 +1294,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782121162_IMG_20260107_182710_756.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782121194_Evos.zip",
     "sort": 4
+  },
+  "Preview Spawn-1767782166563": {
+    "hero": "Preview Spawn",
+    "type": "Skin",
+    "skin_name": "M1 Glory",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782164534_IMG_20260107_182740_139.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782164534_IMG_20260107_182740_139.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782164589_M1.zip",
+    "sort": 5
   }
 }
