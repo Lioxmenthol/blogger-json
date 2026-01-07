@@ -1411,5 +1411,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782769145_IMG_20260107_183228_471.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782769176_Arival%20Vale.zip",
     "sort": 17
+  },
+  "Preview Spawn-1767782811754": {
+    "hero": "Preview Spawn",
+    "type": "Skin",
+    "skin_name": "Hellowen",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782809572_IMG_20260107_183258_860.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782809572_IMG_20260107_183258_860.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782809636_Hellowen.zip",
+    "sort": 18
   }
 }
