@@ -1375,5 +1375,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782483270_IMG_20260107_183057_443.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782483322_MCL.zip",
     "sort": 13
+  },
+  "Preview Spawn-1767782537981": {
+    "hero": "Preview Spawn",
+    "type": "Skin",
+    "skin_name": "Arival Sword",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782534276_IMG_20260107_183119_434.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782534276_IMG_20260107_183119_434.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782534336_Arival%20Sword.zip",
+    "sort": 14
   }
 }
