@@ -1339,5 +1339,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782299296_IMG_20260107_182925_799.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782299320_Moskov%20Abbys.zip",
     "sort": 9
+  },
+  "Preview Spawn-1767782373865": {
+    "hero": "Preview Spawn",
+    "type": "Skin",
+    "skin_name": "Hello Kitty",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782371077_IMG_20260107_182947_713.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782371077_IMG_20260107_182947_713.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782371148_Hello%20Kity.zip",
+    "sort": 10
   }
 }
