@@ -1258,5 +1258,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631225038_IMG_20260106_003809_052.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1767631225072_EMOTE%20DYROT%20YOURE%20TO%20WEAK.zip",
     "sort": 39
+  },
+  "Preview Spawn-1767781376379": {
+    "hero": "Preview Spawn",
+    "type": "Remove",
+    "skin_name": "Delete Spawn",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767781372832_20260107_182207.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767781372832_20260107_182207.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767781372900_Transformers.zip",
+    "sort": 1
   }
 }
