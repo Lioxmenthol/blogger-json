@@ -1402,5 +1402,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782668374_IMG_20260107_183207_994.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782668442_Selena%20Abbys.zip",
     "sort": 16
+  },
+  "Preview Spawn-1767782772233": {
+    "hero": "Preview Spawn",
+    "type": "Skin",
+    "skin_name": "Arival Vale",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782769145_IMG_20260107_183228_471.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782769145_IMG_20260107_183228_471.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Spawn/1767782769176_Arival%20Vale.zip",
+    "sort": 17
   }
 }
