@@ -1501,5 +1501,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486680526_Screenshot_20260404-214050.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486680765_ling%20allstar.zip",
     "sort": 16
+  },
+  "Preview Map-1775486897203": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Pharsa Allstar",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486890084_Screenshot_20260406-224713.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486890084_Screenshot_20260406-224713.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486890223_PHARSA%20ALLSTAR.zip",
+    "sort": 17
   }
 }
