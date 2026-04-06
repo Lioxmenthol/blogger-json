@@ -1546,5 +1546,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488333990_Screenshot_20260406-231205.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488334107_MARTIS%20EPIC.zip",
     "sort": 21
+  },
+  "Preview Map-1775488582837": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Lesley Legend Revamp",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488566757_Screenshot_20260406-231453.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488566757_Screenshot_20260406-231453.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488567219_LESLEY%20LEGEND%20REVAMP.zip",
+    "sort": 22
   }
 }
