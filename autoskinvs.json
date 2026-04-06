@@ -1510,5 +1510,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486890084_Screenshot_20260406-224713.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775486890223_PHARSA%20ALLSTAR.zip",
     "sort": 17
+  },
+  "Preview Map-1775487342635": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Obsidia Starlight",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775487338390_Screenshot_20260406-225459.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775487338390_Screenshot_20260406-225459.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775487338494_OBSIDIA%20STARLIGHT.zip",
+    "sort": 18
   }
 }
