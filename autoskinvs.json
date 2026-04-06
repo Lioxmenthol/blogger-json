@@ -1528,5 +1528,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488021591_Screenshot_20260406-230627.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488021802_ALICE%20COLLECTOR.zip",
     "sort": 19
+  },
+  "Preview Map-1775488193307": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Ling Collector Revamp",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488183607_Screenshot_20260406-230931.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488183607_Screenshot_20260406-230931.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488183852_LING%20COLLECTOR%20REVAMP.zip",
+    "sort": 20
   }
 }
