@@ -1564,5 +1564,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488854185_Screenshot_20260406-232020.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775488854317_ALPHA%20EPIC.zip",
     "sort": 23
+  },
+  "Preview Map-1775489181858": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Alpha Luckybox",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775489172476_Screenshot_20260406-232443.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775489172476_Screenshot_20260406-232443.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775489172605_ALPHA%20LUCKYBOX.zip",
+    "sort": 24
   }
 }
