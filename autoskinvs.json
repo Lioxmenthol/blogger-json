@@ -1573,5 +1573,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775489172476_Screenshot_20260406-232443.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775489172605_ALPHA%20LUCKYBOX.zip",
     "sort": 24
+  },
+  "Preview Map-1775715335519": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Sun Special to Annual Starlight",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775715321018_20260409_141425.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775715321018_20260409_141425.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775715321161_SUN%20SPECIAL%20TO%20ANNUAL%20STAR.zip",
+    "sort": 25
   }
 }
