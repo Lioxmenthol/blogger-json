@@ -1582,5 +1582,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775715321018_20260409_141425.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775715321161_SUN%20SPECIAL%20TO%20ANNUAL%20STAR.zip",
     "sort": 25
+  },
+  "Preview Map-1775717511620": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Sun Rockstar to Annual Starlight",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775717497763_20260409_145111.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775717497763_20260409_145111.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1775717497965_SUN%20ROCKSTAR%20TO%20ANNUAL%20STAR.zip",
+    "sort": 26
   }
 }
