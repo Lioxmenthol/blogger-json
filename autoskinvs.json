@@ -1618,5 +1618,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364405152_20260417_022854.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364405275_BASIC%20FREDRINN%20TO%20TOJI.zip",
     "sort": 29
+  },
+  "Preview Map-1776364594583": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Benedetta to Maki Zenin",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364590643_Screenshot_20260417-022552.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364590643_Screenshot_20260417-022552.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364590704_BENEDETTA%20X%20MAKI%20ZENIN.zip",
+    "sort": 30
   }
 }
