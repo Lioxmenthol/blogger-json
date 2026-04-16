@@ -1627,5 +1627,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364590643_Screenshot_20260417-022552.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364590704_BENEDETTA%20X%20MAKI%20ZENIN.zip",
     "sort": 30
+  },
+  "Preview Map-1776364696042": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Basic Benedetta to Maki Zenin",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364690668_20260417_023001.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364690668_20260417_023001.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364690757_BASIC%20BENED%20TO%20MAKI%20ZENIN.zip",
+    "sort": 31
   }
 }
