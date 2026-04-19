@@ -1636,5 +1636,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364690668_20260417_023001.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776364690757_BASIC%20BENED%20TO%20MAKI%20ZENIN.zip",
     "sort": 31
+  },
+  "Preview Map-1776641570562": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Alucard Season to Lightborn",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776641566634_20260419_205502.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776641566634_20260419_205502.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776641566775_ALUCARD%20SEASON%20TO%20LB.zip",
+    "sort": 32
   }
 }
