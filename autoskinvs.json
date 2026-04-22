@@ -1654,5 +1654,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857349765_Screenshot_20260422-192804.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857349939_EUDORA%20LUCKYBOX.zip",
     "sort": 33
+  },
+  "Preview Map-1776857444898": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Eudora Atomic Pop",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857436716_Screenshot_20260422-192842.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857436716_Screenshot_20260422-192842.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857436964_EUDORA%20ATOMIC%20POP.zip",
+    "sort": 34
   }
 }
