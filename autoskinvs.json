@@ -1645,5 +1645,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776641566634_20260419_205502.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776641566775_ALUCARD%20SEASON%20TO%20LB.zip",
     "sort": 32
+  },
+  "Preview Map-1776857360024": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Eudora Luckybox",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857349765_Screenshot_20260422-192804.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857349765_Screenshot_20260422-192804.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857349939_EUDORA%20LUCKYBOX.zip",
+    "sort": 33
   }
 }
