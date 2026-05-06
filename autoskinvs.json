@@ -1663,5 +1663,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857436716_Screenshot_20260422-192842.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1776857436964_EUDORA%20ATOMIC%20POP.zip",
     "sort": 34
+  },
+  "Preview Map-1778051455568": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Byakuya Kuchiki",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778051442443_Screenshot_20260506-150936.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778051442443_Screenshot_20260506-150936.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778051442620_ARGUS%20X%20BYAKUYA%20KUCHIKI.zip",
+    "sort": 35
   }
 }
