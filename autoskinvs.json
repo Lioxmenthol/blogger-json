@@ -1690,5 +1690,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052157068_Screenshot_20260506-152027.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052157190_CHOU%20X%20SANJI%20NEW.zip",
     "sort": 37
+  },
+  "Preview Map-1778052283215": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Chou Basic to Sanji",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052277861_20260506_152419.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052277861_20260506_152419.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052277959_CHOU%20BASIC%20TO%20SANJI%20NEW.zip",
+    "sort": 38
   }
 }
