@@ -1708,5 +1708,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778078755091_Screenshot_20260506-224418.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778078755242_AURORA%20EPIC.zip",
     "sort": 39
+  },
+  "Preview Map-1778079362352": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Sun Street Legend to Annual Starlight",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778079355927_20260506_225500.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778079355927_20260506_225500.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778079356054_SUN%20STREET%20LEGEND%20TO%20ANNUAL%20STARLIGHT.zip",
+    "sort": 40
   }
 }
