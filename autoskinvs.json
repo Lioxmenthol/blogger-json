@@ -1681,5 +1681,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778051573494_Screenshot_20260417-022731.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778051573625_ARGUS%20X%20TOJI%20FUSHIGORU%20V2.zip",
     "sort": 36
+  },
+  "Preview Map-1778052163645": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Sanji",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052157068_Screenshot_20260506-152027.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052157068_Screenshot_20260506-152027.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052157190_CHOU%20X%20SANJI%20NEW.zip",
+    "sort": 37
   }
 }
