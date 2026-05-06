@@ -1699,5 +1699,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052277861_20260506_152419.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778052277959_CHOU%20BASIC%20TO%20SANJI%20NEW.zip",
     "sort": 38
+  },
+  "Preview Map-1778078763287": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Aurora Epic",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778078755091_Screenshot_20260506-224418.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778078755091_Screenshot_20260506-224418.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778078755242_AURORA%20EPIC.zip",
+    "sort": 39
   }
 }
