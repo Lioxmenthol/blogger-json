@@ -1717,5 +1717,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778079355927_20260506_225500.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1778079356054_SUN%20STREET%20LEGEND%20TO%20ANNUAL%20STARLIGHT.zip",
     "sort": 40
+  },
+  "Preview Map-1779670389008": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Ruby Mori Calliope",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779670384354_Screenshot_20260525-085131.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779670384354_Screenshot_20260525-085131.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779670384537_Ruby%20x%20Mori%20Calliope.zip",
+    "sort": 41
   }
 }
