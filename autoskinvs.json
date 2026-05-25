@@ -1735,5 +1735,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779702875418_Screenshot_20260525-085023.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779702875626_LEOMORD%20X%20FLYING%20DUTCHMAN.zip",
     "sort": 42
+  },
+  "Preview Map-1779703329775": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Cid Kagenou",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779703323516_Screenshot_20260525-180120.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779703323516_Screenshot_20260525-180120.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779703323641_Alu%20x%20Cid%20Kagenou.zip",
+    "sort": 43
   }
 }
