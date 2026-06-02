@@ -1753,5 +1753,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416436593_Screenshot_20260603-000450.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416436954_CHOU%20KEN%20V1.zip",
     "sort": 44
+  },
+  "Preview Map-1780416669432": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Chou Ken v2",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416633437_Screenshot_20260603-000214.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416633437_Screenshot_20260603-000214.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416633850_CHOU%20KEN%20V2.zip",
+    "sort": 45
   }
 }
