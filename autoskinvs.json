@@ -1744,5 +1744,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779703323516_Screenshot_20260525-180120.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1779703323641_Alu%20x%20Cid%20Kagenou.zip",
     "sort": 43
+  },
+  "Preview Map-1780416480070": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Chou Ken v1",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416436593_Screenshot_20260603-000450.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416436593_Screenshot_20260603-000450.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416436954_CHOU%20KEN%20V1.zip",
+    "sort": 44
   }
 }
