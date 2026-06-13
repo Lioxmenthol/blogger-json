@@ -178,5 +178,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330270418_649176f109aa7166271319e78bc5c693.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330273020_649176f109aa7166271319e78bc5c693.jpg",
     "sort": 10
+  },
+  "Kaoruko-1781330551903": {
+    "hero": "Kaoruko",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kaoruko/1781330547204_7807c17d65ee644ab182326629fda2c3.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kaoruko/1781330547204_7807c17d65ee644ab182326629fda2c3.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kaoruko/1781330549702_7807c17d65ee644ab182326629fda2c3.jpg",
+    "sort": 1
   }
 }
