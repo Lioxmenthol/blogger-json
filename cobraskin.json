@@ -133,5 +133,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330151902_535aec11cca86c531ff2cd58c7f57e7f.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330154367_535aec11cca86c531ff2cd58c7f57e7f.jpg",
     "sort": 5
+  },
+  "Haimiya-1781330176401": {
+    "hero": "Haimiya",
+    "type": "Remove",
+    "skin_name": "6",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330171155_27c611e6297ea052f6aab3622987cb25.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330171155_27c611e6297ea052f6aab3622987cb25.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Haimiya/1781330173745_27c611e6297ea052f6aab3622987cb25.jpg",
+    "sort": 6
   }
 }
