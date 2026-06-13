@@ -349,5 +349,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331517945_b37b8144ed78a137057a7e1ae76ded48.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331520480_b37b8144ed78a137057a7e1ae76ded48.jpg",
     "sort": 9
+  },
+  "Kurumi-1781331540122": {
+    "hero": "Kurumi",
+    "type": "Skin",
+    "skin_name": "10",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331535876_5d48e2f8aad12a14fc886043927c919e.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331535876_5d48e2f8aad12a14fc886043927c919e.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331538154_5d48e2f8aad12a14fc886043927c919e.jpg",
+    "sort": 10
   }
 }
