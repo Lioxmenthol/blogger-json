@@ -358,5 +358,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331535876_5d48e2f8aad12a14fc886043927c919e.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Kurumi/1781331538154_5d48e2f8aad12a14fc886043927c919e.jpg",
     "sort": 10
+  },
+  "Masha-1781332265627": {
+    "hero": "Masha",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Masha/1781332260630_9add217333ca6ed4cfc649249416b8a5.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Masha/1781332260630_9add217333ca6ed4cfc649249416b8a5.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Masha/1781332263147_9add217333ca6ed4cfc649249416b8a5.jpg",
+    "sort": 1
   }
 }
