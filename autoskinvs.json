@@ -1762,5 +1762,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416633437_Screenshot_20260603-000214.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1780416633850_CHOU%20KEN%20V2.zip",
     "sort": 45
+  },
+  "Preview Emote-1781326596658": {
+    "hero": "Preview Emote",
+    "type": "Skin",
+    "skin_name": "Shiunji",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1781326593770_9ed2a760545fd0613548bcc696236a98.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1781326593770_9ed2a760545fd0613548bcc696236a98.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1781326593778_9ed2a760545fd0613548bcc696236a98.jpg",
+    "sort": 40
   }
 }
