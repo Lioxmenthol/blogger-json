@@ -493,5 +493,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Alya/1781333761052_f9e47ec5e535cc07e01dc0beb0f7bee7.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Alya/1781333763477_f9e47ec5e535cc07e01dc0beb0f7bee7.jpg",
     "sort": 5
+  },
+  "Alya-1781333785266": {
+    "hero": "Alya",
+    "type": "Skin",
+    "skin_name": "6",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Alya/1781333780214_e93264904b9e946733763e871773c817.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Alya/1781333780214_e93264904b9e946733763e871773c817.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Alya/1781333782619_e93264904b9e946733763e871773c817.jpg",
+    "sort": 6
   }
 }
