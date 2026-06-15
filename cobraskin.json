@@ -547,5 +547,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Shiroko/1781563390481_034d4c9ded612f3a2d54e22450e1b490.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Shiroko/1781563393146_034d4c9ded612f3a2d54e22450e1b490.jpg",
     "sort": 1
+  },
+  "Shiroko-1781563421263": {
+    "hero": "Shiroko",
+    "type": "Skin",
+    "skin_name": "2",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Shiroko/1781563416079_e77818ba26e0c5902727f7491716c91d.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Shiroko/1781563416079_e77818ba26e0c5902727f7491716c91d.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Shiroko/1781563418565_e77818ba26e0c5902727f7491716c91d.jpg",
+    "sort": 2
   }
 }
