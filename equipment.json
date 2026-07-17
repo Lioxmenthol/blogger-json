@@ -37,7 +37,6 @@
     "stat_lifesteal": "+10% Lifesteal", 
     "stat_crit": "",
     "passive_title": "Dragon Scale: ",
-    "passive_desc": "Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).\nUnique Passive - Lifeline: When taking damage that reduces HP below 30%, gains a (120*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown.
-."
+    "passive_desc": "Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).\\n\\nUnique Passive - Lifeline: When taking damage that reduces HP below 30%, gains a (120*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown."
   }
 ]
