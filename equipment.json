@@ -1,17 +1,16 @@
 [
   {
     "item_name": "Malefic Gun",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png/revision/latest?cb=20240706160025",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+40 Extra Physical Attack",
     "stat_speed": "+20% Attack Speed Tambahan",
     "stat_crit": "",
     "passive_title": "Armor Buster: ",
-    "passive_desc": "Increase Physical Penetration by 30%.
-Unique Passive - Malefic Energy: Increases Basic Attack range by 12%. When hitting a target, gains 10% Movement Speed for 0.5 seconds."
+    "passive_desc": "Increase Physical Penetration by 30%.\\n\\nUnique Passive - Malefic Energy: Increases Basic Attack range by 12%. When hitting a target, gains 10% Movement Speed for 0.5 seconds."
   },
   {
     "item_name": "Great Dragon Spear",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png/revision/latest?cb=20240109133223",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+70 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_crit": "+20% Critical Chance",
@@ -20,12 +19,11 @@ Unique Passive - Malefic Energy: Increases Basic Attack range by 12%. When hitti
   },
   {
     "item_name": "Sea Halberd",
-    "item_icon": "https://mobile-legends.fandom.com/wiki/Sea_Halberd?file=Sea_Halberd.png",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+80 Physical Attack",
     "stat_speed": "+25% Attack Speed",
     "stat_crit": "",
     "passive_title": "Lifebane: ",
-    "passive_desc": "Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.
-Unique Passive - Punish: Increase damage by 8% against enemy heroes with higher extra HP."
+    "passive_desc": "Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.\\n\\nUnique Passive - Punish: Increase damage by 8% against enemy heroes with higher extra HP."
   }
 ]
