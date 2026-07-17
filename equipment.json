@@ -1,7 +1,7 @@
 [
   {
     "item_name": "Malefic Gun",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png/revision/latest?cb=20240706160025",
     "stat_attack": "+40 Extra Physical Attack",
     "stat_speed": "+20% Attack Speed Tambahan",
     "stat_crit": "",
@@ -10,7 +10,7 @@
   },
   {
     "item_name": "Great Dragon Spear",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png/revision/latest?cb=20240109133223",
     "stat_attack": "+70 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_crit": "+20% Critical Chance",
@@ -19,7 +19,7 @@
   },
   {
     "item_name": "Sea Halberd",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png/revision/latest?cb=20240109134257",
     "stat_attack": "+80 Physical Attack",
     "stat_speed": "+25% Attack Speed",
     "stat_crit": "",
