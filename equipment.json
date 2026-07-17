@@ -38,5 +38,15 @@
     "stat_crit": "",
     "passive_title": "Dragon Scale: ",
     "passive_desc": "Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).\\n\\nUnique Passive - Lifeline: When taking damage that reduces HP below 30%, gains a (120*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown."
+  }, 
+  {
+    "item_name": "Hunter Strike",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742",
+    "stat_attack": "+15 Physical Penetration\\n\\n+80 Physical Attack",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "", 
+    "stat_crit": "",
+    "passive_title": "Retribution: ",
+    "passive_desc": "Dealing damage to the same enemy hero or creep 5 times in a row grants 50% extra Movement Speed that decays over 3 seconds (8 seconds cooldown).\\n\\nUnique Passive - Hunter: Increases damage against wild monsters."
   }
 ]
