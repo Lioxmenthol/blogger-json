@@ -42,7 +42,7 @@
   {
     "item_name": "Hunter Strike",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742",
-    "stat_attack": "+15 Physical Penetration\\n\\n+80 Physical Attack",
+    "stat_attack": "+15 Physical Penetration\\n+80 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "", 
     "stat_crit": "",
