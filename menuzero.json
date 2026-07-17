@@ -1,0 +1,16 @@
+[
+  {
+    "menu_title": "Hero Details",
+    "menu_sub": "133+ Hero Database Updated",
+    "menu_icon_left": "https://githubusercontent.com",
+    "menu_icon_right": "https://githubusercontent.com",
+    "target_page": "AllskinActivity"
+  },
+  {
+    "menu_title": "Equipment Guide",
+    "menu_sub": "All Battle Items Updated",
+    "menu_icon_left": "https://githubusercontent.com",
+    "menu_icon_right": "https://githubusercontent.com",
+    "target_page": "EequipmentActivity"
+  }
+]
