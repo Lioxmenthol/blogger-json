@@ -1,7 +1,7 @@
 [
   {
     "item_name": "Malefic Gun",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Malefic_Gun.png/revision/latest?cb=20240706160025",
     "stat_attack": "+40 Extra Physical Attack",
     "stat_speed": "+20% Attack Speed Addition",
     "stat_lifesteal": "",
@@ -11,7 +11,7 @@
   },
   {
     "item_name": "Great Dragon Spear",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png/revision/latest?cb=20240109133223",
     "stat_attack": "+70 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -21,7 +21,7 @@
   },
   {
     "item_name": "Sea Halberd",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png/revision/latest?cb=20240109134257",
     "stat_attack": "+80 Physical Attack",
     "stat_speed": "+25% Attack Speed",
     "stat_lifesteal": "",
@@ -31,7 +31,7 @@
   },
   {
     "item_name": "Rose Gold Meteor",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png/revision/latest?cb=20210627044010",
     "stat_attack": "+30 Physical Attack",
     "stat_speed": "+20% Attack Speed",
     "stat_lifesteal": "+10% Lifesteal",
@@ -41,7 +41,7 @@
   },
   {
     "item_name": "Hunter Strike",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742",
     "stat_attack": "+15 Physical Penetration\\n+80 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -51,7 +51,7 @@
   },
   {
     "item_name": "Blade of Despair",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png/revision/latest?cb=20210627031620",
     "stat_attack": "+160 Physical Attack",
     "stat_speed": "+5 Movement Speed",
     "stat_lifesteal": "",
@@ -61,7 +61,7 @@
   },
   {
     "item_name": "Blade of the Heptaseas",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png/revision/latest?cb=20210627031239",
     "stat_attack": "+70 Physical Attack\\n+250 HP\\n+15 Physical Penetration",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -71,7 +71,7 @@
   },
   {
     "item_name": "Berserker's Fury",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png/revision/latest?cb=20240109135108",
     "stat_attack": "+65 Physical Attack",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -81,7 +81,7 @@
   },
   {
     "item_name": "Endless Battle",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png/revision/latest?cb=20240109134914",
     "stat_attack": "+65 Physical Attack\\n+250 HP",
     "stat_speed": "+10% Cooldown Reduction\\n+5% Movement Speed",
     "stat_lifesteal": "+8% Hybrid Lifesteal",
@@ -91,7 +91,7 @@
   },
   {
     "item_name": "Windtalker",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png/revision/latest?cb=20210616130246",
     "stat_attack": "",
     "stat_speed": "+40% Attack Speed\\n+20 Movement Speed",
     "stat_lifesteal": "",
@@ -101,7 +101,7 @@
   },
   {
     "item_name": "Corrosion Scythe",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png/revision/latest?cb=20210627031037",
     "stat_attack": "+30 Physical Attack",
     "stat_speed": "+35% Attack Speed\\n+5% Movement Speed",
     "stat_lifesteal": "",
@@ -111,7 +111,7 @@
   },
   {
     "item_name": "Demon Hunter Sword",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png/revision/latest?cb=20210731025511",
     "stat_attack": "+35 Physical Attack",
     "stat_speed": "+25% Attack Speed",
     "stat_lifesteal": "",
@@ -121,7 +121,7 @@
   },
   {
     "item_name": "Golden Staff",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png/revision/latest?cb=20210627031811",
     "stat_attack": "+55 Physical Attack",
     "stat_speed": "+15% Attack Speed",
     "stat_lifesteal": "",
@@ -131,7 +131,7 @@
   },
   {
     "item_name": "Wind of Nature",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png/revision/latest?cb=20240109132548",
     "stat_attack": "+30 Physical Attack",
     "stat_speed": "+20% Attack Speed",
     "stat_lifesteal": "+10% Physical Lifesteal",
@@ -141,7 +141,7 @@
   },
   {
     "item_name": "War Axe",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png/revision/latest?cb=20260422060516",
     "stat_attack": "+25 Physical Attack\\n+550 HP",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -151,7 +151,7 @@
   },
   {
     "item_name": "Malefic Roar",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png/revision/latest?cb=20210616125818",
     "stat_attack": "+60 Physical Attack",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -161,7 +161,7 @@
   },
   {
     "item_name": "Haas's Claws",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Haas%27_Claws.png/revision/latest?cb=20240109133028",
     "stat_attack": "+30 Physical Attack",
     "stat_speed": "+20% Attack Speed",
     "stat_lifesteal": "+25% Physical Lifesteal",
@@ -171,7 +171,7 @@
   },
   {
     "item_name": "Sky Piercer",
-    "item_icon": "https://nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Sky_Piercer.png/revision/latest?cb=20240731072745",
     "stat_attack": "+60 Adaptive Attack",
     "stat_speed": "+15 Adaptive Penetration",
     "stat_lifesteal": "",
@@ -181,7 +181,7 @@
   },
   {
     "item_name": "Holy Crystal",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png/revision/latest?cb=20210731030840",
     "stat_attack": "+100 Magic Power",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -191,7 +191,7 @@
   },
   {
     "item_name": "Blood Wings",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png/revision/latest?cb=20210305055304",
     "stat_attack": "+175 Magic Power",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -201,7 +201,7 @@
   },
   {
     "item_name": "Clock of Destiny",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Clock_of_Destiny.png/revision/latest?cb=20210627045114",
     "stat_attack": "+60 Magic Power\n+500 HP\n+600 Mana",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -211,7 +211,7 @@
   },
   {
     "item_name": "Divine Glaive",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png/revision/latest?cb=20210524101632",
     "stat_attack": "+60 Magic Power",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -221,7 +221,7 @@
   },
   {
     "item_name": "Enchanted Talisman",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png/revision/latest?cb=20210627044432",
     "stat_attack": "+50 Magic Power\n+250 HP",
     "stat_speed": "+20% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -231,7 +231,7 @@
   },
   {
     "item_name": "Genius Wand",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png/revision/latest?cb=20231008061208",
     "stat_attack": "+75 Magic Power",
     "stat_speed": "+5% Movement Speed",
     "stat_lifesteal": "",
@@ -241,7 +241,7 @@
   },
   {
     "item_name": "Glowing Wand",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png/revision/latest?cb=20240706160031",
     "stat_attack": "+75 Magic Power\n+400 HP",
     "stat_speed": "+5% Movement Speed",
     "stat_lifesteal": "",
@@ -251,7 +251,7 @@
   },
   {
     "item_name": "Ice Queen Wand",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Ice_Queen_Wand.png/revision/latest?cb=20210307060410",
     "stat_attack": "+75 Magic Power",
     "stat_speed": "+7% Movement Speed",
     "stat_lifesteal": "+10% Spell Vamp",
@@ -261,7 +261,7 @@
   },
   {
     "item_name": "Lightning Truncheon",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png/revision/latest?cb=20210930074036",
     "stat_attack": "+75 Magic Power\n+400 Mana",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -271,7 +271,7 @@
   },
   {
     "item_name": "Starlium Scythe",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlium_Scythe.png/revision/latest?cb=20240620140113",
     "stat_attack": "+70 Magic Power\n+400 Mana",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "+8% Hybrid Lifesteal",
@@ -281,7 +281,7 @@
   },
   {
     "item_name": "Winter Crown",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Winter_Crown.png/revision/latest?cb=20240706160002",
     "stat_attack": "+60 Magic Power\n+25 Armor",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -291,7 +291,7 @@
   },
   {
     "item_name": "Concentrated Energy",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png/revision/latest?cb=20210731031308",
     "stat_attack": "+70 Magic Power\n+700 HP",
     "stat_speed": "",
     "stat_lifesteal": "+20% Spell Vamp",
@@ -301,7 +301,7 @@
   },
   {
     "item_name": "Fleeting Time",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png/revision/latest?cb=20240706155949",
     "stat_attack": "+70 Magic Power\n+350 HP",
     "stat_speed": "+15% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -311,7 +311,7 @@
   },
   {
     "item_name": "Feather of Heaven",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png/revision/latest?cb=20240109140326",
     "stat_attack": "+55 Magic Power",
     "stat_speed": "+20% Attack Speed\n+5% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -320,18 +320,8 @@
     "passive_desc": "Basic Attack hero memberikan Magic Damage tambahan setara dengan 50 + 30% Magic Power."
   },
   {
-    "item_name": "Necklace of Durance",
-    "item_icon": "nocookie.net",
-    "stat_attack": "+60 Magic Power\n+300 HP",
-    "stat_speed": "+5% Cooldown Reduction",
-    "stat_lifesteal": "+10% Spell Vamp",
-    "stat_crit": "",
-    "passive_title": "Lifebane: ",
-    "passive_desc": "Memberikan damage ke target akan mengurangi efek Shield dan HP Regen mereka sebesar 50% selama 3 detik."
-  },
-  {
     "item_name": "Wishing Lantern",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Wishing_Lantern.png/revision/latest?cb=20240706155956",
     "stat_attack": "+70 Magic Power",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -341,7 +331,7 @@
   },
   {
     "item_name": "Flask of the Oasis",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png/revision/latest?cb=20240109135304",
     "stat_attack": "+60 Magic Power\n+300 HP",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
