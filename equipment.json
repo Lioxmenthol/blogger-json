@@ -528,5 +528,15 @@
     "stat_crit": "",
     "passive_title": "Side Effect: ",
     "passive_desc": "Memberikan atau menerima damage mengurangi Movement Speed hero sebesar 25 selama 5 detik."
+  }, 
+  {
+    "item_name": "Boots",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Boots.png/revision/latest?cb=20240110072216",
+    "stat_attack": "",
+    "stat_speed": "+20 Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": "", 
   }
 ]
