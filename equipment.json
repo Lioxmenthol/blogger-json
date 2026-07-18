@@ -730,6 +730,126 @@
     "passive_desc": "Menggunakan skill atau Basic Attack akan meningkatkan Movement Speed sebesar 2%, serta Physical & Magic Defense sebesar 4 selama 4 detik. Stack hingga 5 kali."
   },
   {
+    "item_name": "Vitality Crystal",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Vitality_Crystal.png/revision/latest?cb=20210826093250",
+    "stat_attack": "+230 HP",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Leather Jerkin",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Leather_Jerkin.png/revision/latest?cb=20210921162254",
+    "stat_attack": "+18 Physical Defense",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Magic Resist Cloak",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Magic_Resist_Cloak.png/revision/latest?cb=20210921162156",
+    "stat_attack": "+18 Magic Defense",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Healing Necklace",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Healing_Necklace.png/revision/latest?cb=20210921161214",
+    "stat_attack": "+5 HP Regen",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Hero's Ring",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero%27s_Ring.png/revision/latest?cb=20210921161813",
+    "stat_attack": "+150 HP",
+    "stat_speed": "+5% Pengurangan Cooldown",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Ares Belt",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Ares_Belt.png/revision/latest?cb=20210921161332",
+    "stat_attack": "+770 HP",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Steel Legplates",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Steel_Legplates.png/revision/latest?cb=20240110071517",
+    "stat_attack": "+45 Physical Defense",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Dreadnaught Armor",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Dreadnaught_Armor.png/revision/latest?cb=20240110071105",
+    "stat_attack": "+40 Physical Defense",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Deter: ",
+    "passive_desc": "Saat diserang oleh skill musuh, mengurangi Physical Attack mereka sebesar 5% selama 2 detik (maksimal 3 stack)."
+  },
+  {
+    "item_name": "Black Ice Shield",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Black_Ice_Shield.png/revision/latest?cb=20240110071203",
+    "stat_attack": "+400 Mana\n+22 Physical Defense",
+    "stat_speed": "+10% Pengurangan Cooldown",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Arctic Cold: ",
+    "passive_desc": "Mengurangi Attack Speed hero musuh terdekat sebesar 65% dari kondisi normal mereka."
+  },
+  {
+    "item_name": "Molten Essence",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Molten_Essence.png/revision/latest?cb=20240110071234",
+    "stat_attack": "+540 HP",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Burning Soul: ",
+    "passive_desc": "Memberikan Magic Damage yang setara dengan 0.8% dari Maksimum HP hero per detik kepada musuh di sekitar (damage meningkat 150% ke Minion)."
+  },
+  {
+    "item_name": "Silence Robe",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Silence_Robe.png/revision/latest?cb=20240110071439",
+    "stat_attack": "+540 HP\n+23 Magic Defense",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Rock Potion",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Rock_Potion.png/revision/latest?cb=20240110065943",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Increase Power: ",
+    "passive_desc": "Saat dibeli, memberikan 500 HP tambahan dan 15% Resilience (pengurangan durasi efek CC) selama 120 detik."
+  }, 
+  {
     "item_name": "Warrior Boots",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png/revision/latest?cb=20210627055015",
     "stat_attack": "+20 Physical Defense",
@@ -808,5 +928,115 @@
     "stat_crit": "",
     "passive_title": "",
     "passive_desc": ""
+  }, 
+  {
+    "item_name": "Allow Throw",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Allow_Throw.png/revision/latest?cb=20240110065620",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Trust: ",
+    "passive_desc": "Membeli item ini memungkinkan rekan satu tim yang menggunakan hero Jawhead untuk melemparkan Anda menggunakan skill-nya."
+  },
+  {
+    "item_name": "Throw Forbidden",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Throw_Forbidden.png/revision/latest?cb=20240110065710",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Stand Aside: ",
+    "passive_desc": "Membeli item ini melarang dan mencegah rekan satu tim yang menggunakan hero Jawhead untuk melemparkan Anda."
+  },
+  {
+    "item_name": "Broken Heart",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Broken_Heart.png/revision/latest?cb=20230610045500",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Heart Broken: ",
+    "passive_desc": "Hanya tersedia jika Anda menjadi Carmilla saat satu tim dengan Cecilion. Setelah dibeli, Cecilion tidak akan bisa menggunakan skill interaksi 'Moonlit Waltz' kepada Anda."
+  },
+  {
+    "item_name": "Resonating Heart",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Resonating_Heart.png/revision/latest?cb=20240919141339",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Heart Resonance: ",
+    "passive_desc": "Hanya tersedia jika Anda menjadi Carmilla saat satu tim dengan Cecilion. Memungkinkan Cecilion untuk kembali menggunakan skill interaksi 'Moonlit Waltz' kepada Anda."
+  },
+  {
+    "item_name": "Ice Retribution",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Ice_Retribution.png/revision/latest?cb=20220714103419",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Hunter: ",
+    "passive_desc": "Damage Retribution ke Creep/Minion meningkat 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan menyerap (mencuri) 72-100 Movement Speed musuh selama 4 detik."
+  },
+  {
+    "item_name": "Flame Retribution",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Flame_Retribution.png/revision/latest?cb=20220714103414",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Hunter: ",
+    "passive_desc": "Damage Retribution ke Creep/Minion meningkat 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan menyerap (mencuri) 35-51 Physical & Magic Attack musuh selama 4 detik."
+  },
+  {
+    "item_name": "Bloody Retribution",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bloody_Retribution.png/revision/latest?cb=20220714103400",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Hunter: ",
+    "passive_desc": "Damage Retribution ke Creep/Minion meningkat 150%. Saat digunakan ke hero musuh, memberikan 100 True Damage dan menyerap (menyembuhkan) HP pengguna sebesar 250 ditambah 20% dari Ekstra HP pengguna selama 4 detik."
+  }, 
+  {
+    "item_name": "Conceal",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Active_-_Conceal.png/revision/latest?cb=20210617144146",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Active - Conceal: ",
+    "passive_desc": "Memasuki mode Camouflage bersama rekan tim di sekitar selama 5 detik, meningkatkan Movement Speed sebesar 24%-60% (berskala dengan Gold Thriving). Efek langsung batal jika memberikan atau menerima damage."
+  }, 
+  {
+    "item_name": "Encourage",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Passive_-_Encourage.png/revision/latest?cb=20210617144133",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Passive - Encourage: ",
+    "passive_desc": "Meningkatkan 12-30 Physical Attack & Magic Power dan 15% Attack Speed untuk hero tim di sekitar (berskala dengan Gold Thriving)."
+  },
+  {
+    "item_name": "Favor",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Passive_-_Favor.png/revision/latest?cb=20210617144201",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Passive - Favor: ",
+    "passive_desc": "Saat menggunakan skill penyembuhan (Heal) atau Shield, memulihkan tambahan 300-750 HP untuk rekan satu tim dengan HP terendah di sekitar. Cooldown: 15 detik (berskala dengan Gold Thriving)."
+  },
+  {
+    "item_name": "Dire Hit",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Passive_-_Dire_Hit.png/revision/latest?cb=20210617144227",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Passive - Dire Hit: ",
+    "passive_desc": "Saat memberikan damage yang membuat HP musuh turun di bawah 35%, memberikan tambahan damage setara 7%-18% dari Maksimum HP musuh (setengah berupa Magic Damage dan setengah True Damage). Cooldown: 30 detik (berskala dengan Gold Thriving)."
   }
 ]
