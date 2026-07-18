@@ -41,7 +41,7 @@
   }, 
   {
     "item_name": "Hunter Strike",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742", 
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742",
     "stat_attack": "+15 Physical Penetration\\n+80 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "", 
@@ -49,7 +49,7 @@
     "passive_title": "Retribution: ",
     "passive_desc": "Memberikan damage ke hero lawan atau creep yang sama 5 kali berturut-turut memberikan 50% Movement Speed tambahan yang berkurang dalam 3 detik (cooldown 8 detik).\\n\\nPasif Unik - Hunter: Meningkatkan damage terhadap monster hutan."
   }, 
-  ‎{
+  {
     "item_name": "Blade of Despair",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png/revision/latest?cb=20210627031620",
     "stat_attack": "+160 Physical Attack",
