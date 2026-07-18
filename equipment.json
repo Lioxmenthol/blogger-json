@@ -48,5 +48,25 @@
     "stat_crit": "",
     "passive_title": "Retribution: ",
     "passive_desc": "Memberikan damage ke hero lawan atau creep yang sama 5 kali berturut-turut memberikan 50% Movement Speed tambahan yang berkurang dalam 3 detik (cooldown 8 detik).\\n\\nPasif Unik - Hunter: Meningkatkan damage terhadap monster hutan."
-  }
+  }, 
+  ‎{
+‎    "item_name": "Blade of Despair",
+‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png/revision/latest?cb=20210627031620",
+‎    "stat_attack": "+160 Physical Attack",
+‎    "stat_speed": "+5 Movement Speed",
+‎    "stat_lifesteal": "", 
+‎    "stat_crit": "",
+‎    "passive_title": "Despair: ",
+‎    "passive_desc": "Memberikan kerusakan pada musuh non-Minion di bawah 50% HP meningkatkan Serangan Fisik sebesar 25% selama 2 detik (efek berlaku sebelum kerusakan diberikan)."
+‎  }, 
+‎  {
+‎    "item_name": "Blade of the Heptaseas",
+‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png/revision/latest?cb=20210627031239",
+‎    "stat_attack": "+70 Physical Attack\\n+250 hp\n+15 Physical Penetration",
+‎    "stat_speed": "",
+‎    "stat_lifesteal": "", 
+‎    "stat_crit": "",
+‎    "passive_title": "Ambush: ",
+‎    "passive_desc": "Jika tidak ada kerusakan yang diterima atau diberikan dalam 5 detik (tidak termasuk Minion atau Creep), Serangan Dasar berikutnya akan memberikan tambahan 160 (+40% Total Serangan Fisik) Kerusakan Fisik dan memperlambat target sebesar 40% selama 1,5 detik."
+‎  }
 ]
