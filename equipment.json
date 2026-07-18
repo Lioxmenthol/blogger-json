@@ -3,11 +3,11 @@
     "item_name": "Malefic Gun",
     "item_icon": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Malefic_Gun.webp",
     "stat_attack": "+40 Extra Physical Attack",
-    "stat_speed": "+20% Attack Speed Tambahan",
+    "stat_speed": "+20% Attack Speed Addition",
     "stat_lifesteal": "",
     "stat_crit": "",
     "passive_title": "Armor Buster: ",
-    "passive_desc": "Increase Physical Penetration by 30%.\\n\\nUnique Passive - Malefic Energy: Increases Basic Attack range by 12%. When hitting a target, gains 10% Movement Speed for 0.5 seconds."
+    "passive_desc": "Meningkatkan Physical Penetration sebesar 30%.\\n\\nPasif Unik - Malefic Energy: Meningkatkan jarak Basic Attack sebesar 12%. Saat mengenai target, memperoleh 10% Movement Speed selama 0.5 detik."
   },
   {
     "item_name": "Great Dragon Spear",
@@ -17,7 +17,7 @@
     "stat_lifesteal": "",
     "stat_crit": "+20% Critical Chance",
     "passive_title": "Supreme Warrior: ",
-    "passive_desc": "After casting an Ultimate, increase Movement Speed by 30% for 7.5 seconds. This effect has a 15 seconds cooldown."
+    "passive_desc": "Setelah menggunakan Ultimate, meningkatkan Movement Speed sebesar 30% selama 7.5 detik. Efek ini memiliki cooldown selama 15 detik."
   },
   {
     "item_name": "Sea Halberd",
@@ -27,7 +27,7 @@
     "stat_lifesteal": "", 
     "stat_crit": "",
     "passive_title": "Lifebane: ",
-    "passive_desc": "Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.\\n\\nUnique Passive - Punish: Increase damage by 8% against enemy heroes with higher extra HP."
+    "passive_desc": "Memberikan damage ke target akan mengurangi efek Shield dan HP Regen mereka menjadi 60% dari normal selama 3 detik.\\n\\nPasif Unik - Punish: Meningkatkan damage sebesar 8% terhadap hero lawan yang memiliki HP tambahan lebih tinggi."
   }, 
   {
     "item_name": "Rose Gold Meteor",
@@ -37,7 +37,7 @@
     "stat_lifesteal": "+10% Lifesteal", 
     "stat_crit": "",
     "passive_title": "Dragon Scale: ",
-    "passive_desc": "Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).\\n\\nUnique Passive - Lifeline: When taking damage that reduces HP below 30%, gains a (120*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown."
+    "passive_desc": "Setiap 4 extra Physical Attack meningkatkan Hybrid Defense sebesar 1, hingga 50 (efek berkurang setengah jika Role Utama bukan Fighter).\\n\\nPasif Unik - Lifeline: Saat menerima damage yang mengurangi HP di bawah 30%, memperoleh shield sebesar (120*Level Hero) (meningkat seiring level) dan 50% Movement Speed yang berkurang dengan cepat dalam 3 detik. Efek ini memiliki cooldown selama 60 detik."
   }, 
   {
     "item_name": "Hunter Strike",
@@ -47,6 +47,6 @@
     "stat_lifesteal": "", 
     "stat_crit": "",
     "passive_title": "Retribution: ",
-    "passive_desc": "Dealing damage to the same enemy hero or creep 5 times in a row grants 50% extra Movement Speed that decays over 3 seconds (8 seconds cooldown).\\n\\nUnique Passive - Hunter: Increases damage against wild monsters."
+    "passive_desc": "Memberikan damage ke hero lawan atau creep yang sama 5 kali berturut-turut memberikan 50% Movement Speed tambahan yang berkurang dalam 3 detik (cooldown 8 detik).\\n\\nPasif Unik - Hunter: Meningkatkan damage terhadap monster hutan."
   }
 ]
