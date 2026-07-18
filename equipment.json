@@ -341,7 +341,7 @@
   },
   {
     "item_name": "Antique Cuirass",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png/revision/latest?cb=20240728122516",
     "stat_attack": "+920 HP\n+40 Physical Defense\n+4 HP Regen",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -351,7 +351,7 @@
   },
   {
     "item_name": "Athena's Shield",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png/revision/latest?cb=20240728122125",
     "stat_attack": "+900 HP\n+48 Magic Defense\n+2 HP Regen",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -361,7 +361,7 @@
   },
   {
     "item_name": "Blade Armor",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png/revision/latest?cb=20240728123118",
     "stat_attack": "+70 Physical Defense",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -371,7 +371,7 @@
   },
   {
     "item_name": "Dominance Ice",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png/revision/latest?cb=20240728122016",
     "stat_attack": "+500 Mana\n+55 Physical Defense\n+5% Movement Speed",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -381,7 +381,7 @@
   },
   {
     "item_name": "Immortality",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Immortality.png/revision/latest?cb=20240728121655",
     "stat_attack": "+800 HP\n+15 Physical Defense",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -391,7 +391,7 @@
   },
   {
     "item_name": "Oracle",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png/revision/latest?cb=20240728122545",
     "stat_attack": "+850 HP\n+42 Magic Defense",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -401,7 +401,7 @@
   },
   {
     "item_name": "Radiant Armor",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png/revision/latest?cb=20240110073249",
     "stat_attack": "+950 HP\n+52 Magic Defense\n+12 HP Regen",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -411,7 +411,7 @@
   },
   {
     "item_name": "Thunder Belt",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png/revision/latest?cb=20240303143710",
     "stat_attack": "+800 HP\n+15 Physical Defense\n+15 Magic Defense\n+20 Movement Speed",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -421,7 +421,7 @@
   },
   {
     "item_name": "Cursed Helmet",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png/revision/latest?cb=20240728122832",
     "stat_attack": "+1200 HP\n+25 Magic Defense",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -431,7 +431,7 @@
   },
   {
     "item_name": "Guardian Helmet",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png/revision/latest?cb=20240728122738",
     "stat_attack": "+1550 HP\n+20 HP Regen",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -441,7 +441,7 @@
   },
   {
     "item_name": "Queen's Wings",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png/revision/latest?cb=20240728123011",
     "stat_attack": "+15 Physical Attack\n+1000 HP",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "+5% Spell Vamp",
@@ -451,7 +451,7 @@
   },
   {
     "item_name": "Brute Force Breastplate",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Brute_Force_Breastplate.png/revision/latest?cb=20240728121246",
     "stat_attack": "+770 HP\n+45 Physical Defense",
     "stat_speed": "",
     "stat_lifesteal": "",
@@ -460,18 +460,8 @@
     "passive_desc": "Menggunakan skill atau Basic Attack akan meningkatkan Movement Speed sebesar 2%, serta Physical & Magic Defense sebesar 4 selama 4 detik. Stack hingga 5 kali."
   },
   {
-    "item_name": "Twilight Armor",
-    "item_icon": "nocookie.net",
-    "stat_attack": "+1200 HP\n+20 Physical Defense",
-    "stat_speed": "",
-    "stat_lifesteal": "",
-    "stat_crit": "",
-    "passive_title": "Twilight: ",
-    "passive_desc": "Setelah menerima damage lebih dari 600 dalam sekali serangan, mengurangi damage selanjutnya yang melebihi jumlah tersebut sebesar 20% selama 3 detik. Cooldown 15 detik."
-  },
-  {
     "item_name": "Warrior Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png/revision/latest?cb=20210627055015",
     "stat_attack": "+20 Physical Defense",
     "stat_speed": "+40 Movement Speed",
     "stat_lifesteal": "",
@@ -481,7 +471,7 @@
   },
   {
     "item_name": "Tough Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png/revision/latest?cb=20240110072337",
     "stat_attack": "+18 Magic Defense",
     "stat_speed": "+40 Movement Speed",
     "stat_lifesteal": "",
@@ -491,7 +481,7 @@
   },
   {
     "item_name": "Magic Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png/revision/latest?cb=20240110072432",
     "stat_attack": "",
     "stat_speed": "+40 Movement Speed\n+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -501,7 +491,7 @@
   },
   {
     "item_name": "Arcane Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png/revision/latest?cb=20240110072249",
     "stat_attack": "+10 Magic Penetration",
     "stat_speed": "+40 Movement Speed\n+10 Magic Penetration",
     "stat_lifesteal": "",
@@ -511,7 +501,7 @@
   },
   {
     "item_name": "Swift Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png/revision/latest?cb=20210627055208",
     "stat_attack": "+15% Attack Speed",
     "stat_speed": "+40 Movement Speed\n+15% Attack Speed",
     "stat_lifesteal": "",
@@ -521,7 +511,7 @@
   },
   {
     "item_name": "Demon Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png/revision/latest?cb=20240110072404",
     "stat_attack": "+500 Mana",
     "stat_speed": "+40 Movement Speed",
     "stat_lifesteal": "",
@@ -531,7 +521,7 @@
   },
   {
     "item_name": "Rapid Boots",
-    "item_icon": "nocookie.net",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png/revision/latest?cb=20240110072315",
     "stat_attack": "",
     "stat_speed": "+70 Movement Speed",
     "stat_lifesteal": "",
