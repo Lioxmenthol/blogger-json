@@ -389,86 +389,86 @@
     "passive_title": "",
     "passive_desc": ""
   }, 
-  ‎{
-‎    "item_name": "Mystic Container",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Mystic_Container.png/revision/latest?cb=20240110064746",
-‎    "stat_attack": "+15 Magic Power",
-‎    "stat_speed": "+8% Spell Vamp",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "",
-‎    "passive_desc": ""
-‎  }, 
-  ‎{
-‎    "item_name": "Expert Gloves",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Expert_Gloves.png/revision/latest?cb=20240620001003",
-‎    "stat_attack": "+30 Adaptive Attack",
-‎    "stat_speed": "",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "",
-‎    "passive_desc": ""
-‎  }, 
-‎  {
-‎    "item_name": "Book of Sages",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Book_of_Sages.png/revision/latest?cb=20240110064937",
-‎    "stat_attack": "+8 Magic Power",
-‎    "stat_speed": "+5% Pengurangan Cooldown",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "",
-‎    "passive_desc": ""
-‎  }, 
-‎  {
-‎    "item_name": "Magic Necklace",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Magic_Necklace.png/revision/latest?cb=20240110065246",
-‎    "stat_attack": "+2 Mana Regen",
-‎    "stat_speed": "",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "",
-‎    "passive_desc": ""
-‎  }, 
-  ‎{
-‎    "item_name": "Power Crystal",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Power_Crystal.png/revision/latest?cb=20240110065203",
-‎    "stat_attack": "+280 Mana",
-‎    "stat_speed": "",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "",
-‎    "passive_desc": ""
-‎  }, 
-‎  {
-‎    "item_name": "Mystery Codex",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png/revision/latest?cb=20240110065418",
-‎    "stat_attack": "+15 Magic Power",
-‎    "stat_speed": "",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "",
-‎    "passive_desc": ""
-‎  }, 
-‎  {
-‎    "item_name": "Lantern of Hope",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Lantern_of_Hope.png/revision/latest?cb=20210924150801",
-‎    "stat_attack": "+20 Magic Power",
-‎    "stat_speed": "+4 Movement Speed \\n+2% Pengurangan Cooldown",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "Lantern of Hope: ",
-‎    "passive_desc": "Atribut perlengkapan meningkat seiring dengan level hero."
-‎  },
-  ‎{
-‎    "item_name": "Magic Potion",
-‎    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Magic_Potion.png/revision/latest?cb=20240110065542",
-‎    "stat_attack": "",
-‎    "stat_speed": "",
-‎    "stat_lifesteal": "",
-‎    "stat_crit": "",
-‎    "passive_title": "Increase Power: ",
-‎    "passive_desc": "Saat dibeli, memberikan 30 Magic Power tambahan dan 10% Pengurangan Cooldown selama 120 detik."
-‎  }, 
+  {
+    "item_name": "Mystic Container",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Mystic_Container.png/revision/latest?cb=20240110064746",
+    "stat_attack": "+15 Magic Power",
+    "stat_speed": "+8% Spell Vamp",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Expert Gloves",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Expert_Gloves.png/revision/latest?cb=20240620001003",
+    "stat_attack": "+30 Adaptive Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Book of Sages",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Book_of_Sages.png/revision/latest?cb=20240110064937",
+    "stat_attack": "+8 Magic Power",
+    "stat_speed": "+5% Pengurangan Cooldwon",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Magic Necklace",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Magic_Necklace.png/revision/latest?cb=20240110065246",
+    "stat_attack": "+2 Mana Regen",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Power Crystal",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Power_Crystal.png/revision/latest?cb=20240110065203",
+    "stat_attack": "+280 Mana",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Mystery Codex",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mystery_Codex.png/revision/latest?cb=20240110065418",
+    "stat_attack": "+15 Magic Power",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Lantern of Hope",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Lantern_of_Hope.png/revision/latest?cb=20210924150801",
+    "stat_attack": "+20 Magic Power",
+    "stat_speed": "+4 Movement Speed \\n+2% Pengurangan Cooldown",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Lantern of Hope: ",
+    "passive_desc": "Atribut perlengkapan meningkat seiring dengan level hero."
+  }, 
+  {
+    "item_name": "Magic Potion",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Magic_Potion.png/revision/latest?cb=20240110065542",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Increase Power: ",
+    "passive_desc": "Saat dibeli, memberikan 30 Magic Power tambahan dan 10% Pengurangan Cooldown selama 120 detik."
+  }, 
   {
     "item_name": "Chastise Pauldron",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png/revision/latest?cb=20251224045812",
