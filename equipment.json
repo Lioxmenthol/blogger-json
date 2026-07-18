@@ -180,6 +180,96 @@
     "passive_desc": "Setelah memberikan damage ke hero musuh yang HP-nya berada di bawah 6% (meningkat dengan stack), langsung mengeliminasi mereka. Mendapatkan stack setiap kali eliminasi, kehilangan stack saat terelimasi."
   },
   {
+    "item_name": "Dagger",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Dagger.png/revision/latest?cb=20240109130605",
+    "stat_attack": "+15 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Knife",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Knife.png/revision/latest?cb=20240109130338",
+    "stat_attack": "",
+    "stat_speed": "+10% Attack Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Javelin",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Javelin.png/revision/latest?cb=20240109130430",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "+8% Crit Chance",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Rogue Meteor",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Rogue_Meteor.png/revision/latest?cb=20240109132025",
+    "stat_attack": "+20 Physical Attack",
+    "stat_speed": "+10% Attack Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Iron Hunting Bow",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Iron_Hunting_Bow.png/revision/latest?cb=20240109130634",
+    "stat_attack": "+20 Physical Attack",
+    "stat_speed": "+5% Pengurangan Cooldown",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Vampire Mallet",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Vampire_Mallet.png/revision/latest?cb=20240109130816",
+    "stat_attack": "+8 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "+8% Physical Lifesteal",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Regular Spear",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Regular_Spear.png/revision/latest?cb=20220127072851",
+    "stat_attack": "+20 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Legion Sword",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Legion_Sword.png/revision/latest?cb=20240109131009",
+    "stat_attack": "+30 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
+    "item_name": "Ogre Tomahawk",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Ogre_Tomahawk.png/revision/latest?cb=20240109131848",
+    "stat_attack": "+30 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Martial Power: ",
+    "passive_desc": "Basic Attack memberikan 10% Movement Speed tambahan (setengah untuk hero Jarak Jauh) selama 2 detik."
+  }, 
+  {
     "item_name": "Holy Crystal",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png/revision/latest?cb=20210731030840",
     "stat_attack": "+100 Magic Power",
