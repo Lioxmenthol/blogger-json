@@ -340,6 +340,26 @@
     "passive_desc": "Setelah menggunakan skill pemulihan (Heal) atau perisai (Shield), jika HP target berada di bawah 35% dalam 5 detik berikutnya, memberikan Shield besar tambahan selama 3 detik."
   },
   {
+    "item_name": "Elegant Gem",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Elegant_Gem.png/revision/latest?cb=20240620000956",
+    "stat_attack": "+300 Max HP Tambahan",
+    "stat_speed": "+380 Mana",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Gift: ",
+    "passive_desc": "Saat HP turun di bawah 50%, memulihkan 15% HP selama 3 detik berikutnya. Saat Mana kurang dari 50%, memulihkan 15% Mana selama 3 detik berikutnya. Cooldown: 60 detik."
+  },
+  {
+    "item_name": "Exotic Veil",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Exotic_Veil.png/revision/latest?cb=20210921151940",
+    "stat_attack": "+30 Magic Power",
+    "stat_speed": "+5% Movement Speed",
+    "stat_lifesteal": "", 
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  },
+  {
     "item_name": "Antique Cuirass",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png/revision/latest?cb=20240728122516",
     "stat_attack": "+920 HP\n+40 Physical Defense\n+4 HP Regen",
@@ -537,6 +557,6 @@
     "stat_lifesteal": "",
     "stat_crit": "",
     "passive_title": "",
-    "passive_desc": "", 
+    "passive_desc": ""
   }
 ]
