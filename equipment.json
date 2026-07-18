@@ -360,6 +360,46 @@
     "passive_desc": ""
   },
   {
+    "item_name": "Azure Blade",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Azure_Blade.png/revision/latest?cb=20240110063912",
+    "stat_attack": "+5 Mana Regen",
+    "stat_speed": "+5% Pengurangan Cooldwon",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Judgement: ",
+    "passive_desc": "Setelah menggunakan Skill, Basic Attack berikutnya dalam 3 detik memberikan 50 True Damage tambahan (Cooldown 1.5 detik)."
+  }, 
+  {
+    "item_name": "Tome of Evil",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Tome_of_Evil.png/revision/latest?cb=20250928063829",
+    "stat_attack": "+30 Magic Power\\n+2 Mana Regen",
+    "stat_speed": "+10% Pengurangan Cooldown",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Magic Wand",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Magic_Wand.png/revision/latest?cb=20240110064711",
+    "stat_attack": "+45 Magic Power",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Chastise Pauldron",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Chastise_Pauldron.png/revision/latest?cb=20251224045812",
+    "stat_attack": "+900 Max HP Tambahan",
+    "stat_speed": "+40 Physical Defense Tambahan",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Chastise: ",
+    "passive_desc": "Menerima damage akan Decrease Attack Speed dan batas Attack Speed penyerang menjadi 75% dari jumlah normal selama 2 detik. Redemption: Saat damage yang diterima Decrease HP di bawah 30%, memulihkan 20% Max HP selama 2 detik berikutnya. Efek ini punya Cooldown 60 detik."
+  }, 
+  {
     "item_name": "Antique Cuirass",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png/revision/latest?cb=20240728122516",
     "stat_attack": "+920 HP\n+40 Physical Defense\n+4 HP Regen",
