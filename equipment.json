@@ -270,6 +270,46 @@
     "passive_desc": "Basic Attack memberikan 10% Movement Speed tambahan (setengah untuk hero Jarak Jauh) selama 2 detik."
   }, 
   {
+    "item_name": "Swift Crossbow",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Swift_Crossbow.png/revision/latest?cb=20240109125340",
+    "stat_attack": "",
+    "stat_speed": "+20% Attack Speed Tambahan",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Crossbow: ",
+    "passive_desc": "Setiap Basic Attack memberikan 40 Adaptive Damage tambahan. Impulse: Basic Attack memberikan 3% Attack Speed tambahan selama 3 detik, maksimal hingga 5 Stack."
+  }, 
+  {
+    "item_name": "Fury Hammer",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Fury_Hammer.png/revision/latest?cb=20240109132148",
+    "stat_attack": "+12 Physical Penetration",
+    "stat_speed": "+35 Extra Physical Attack",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": ""
+  }, 
+  {
+    "item_name": "Magic Blade",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Magic_Blade.png/revision/latest?cb=20240109132217",
+    "stat_attack": "+25 Extra Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "+10% Lifesteal",
+    "stat_crit": "",
+    "passive_title": "Lifeline: ",
+    "passive_desc": "Saat menerima damage yang Decrease HP di bawah 30%, mendapatkan (+60*Level Hero) Shield dan 50% Movement Speed yang berkurang dengan cepat dalam 3 detik. Efek ini punya Cooldown 60 detik."
+  }, 
+  {
+    "item_name": "Power Potion",
+    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Power_Potion.png/revision/latest?cb=20240109130008",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Increase Power: ",
+    "passive_desc": "Setelah pembelian, memberikan 30 Physical Attack dan 15% Lifesteal selama 120 detik."
+  }, 
+  {
     "item_name": "Holy Crystal",
     "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png/revision/latest?cb=20210731030840",
     "stat_attack": "+100 Magic Power",
