@@ -1,17 +1,17 @@
 [
   {
     "item_name": "Malefic Gun",
-    "item_icon": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Malefic_Gun.webp",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+40 Extra Physical Attack",
     "stat_speed": "+20% Attack Speed Addition",
     "stat_lifesteal": "",
     "stat_crit": "",
-    "passive_title": "Armor Buster: ",
+    "passive_title": "Armor Buster / Malefic Energy: ",
     "passive_desc": "Meningkatkan Physical Penetration sebesar 30%.\\n\\nPasif Unik - Malefic Energy: Meningkatkan jarak Basic Attack sebesar 12%. Saat mengenai target, memperoleh 10% Movement Speed selama 0.5 detik."
   },
   {
     "item_name": "Great Dragon Spear",
-    "item_icon": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Great_Dragon_Spear.webp",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+70 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
     "stat_lifesteal": "",
@@ -21,52 +21,532 @@
   },
   {
     "item_name": "Sea Halberd",
-    "item_icon": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Sea_Halberd.webp",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+80 Physical Attack",
     "stat_speed": "+25% Attack Speed",
-    "stat_lifesteal": "", 
+    "stat_lifesteal": "",
     "stat_crit": "",
-    "passive_title": "Lifebane: ",
+    "passive_title": "Lifebane / Punish: ",
     "passive_desc": "Memberikan damage ke target akan mengurangi efek Shield dan HP Regen mereka menjadi 60% dari normal selama 3 detik.\\n\\nPasif Unik - Punish: Meningkatkan damage sebesar 8% terhadap hero lawan yang memiliki HP tambahan lebih tinggi."
-  }, 
+  },
   {
     "item_name": "Rose Gold Meteor",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png/revision/latest?cb=20210627044010",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+30 Physical Attack",
     "stat_speed": "+20% Attack Speed",
-    "stat_lifesteal": "+10% Lifesteal", 
+    "stat_lifesteal": "+10% Lifesteal",
     "stat_crit": "",
-    "passive_title": "Dragon Scale: ",
+    "passive_title": "Dragon Scale / Lifeline: ",
     "passive_desc": "Setiap 4 extra Physical Attack meningkatkan Hybrid Defense sebesar 1, hingga 50 (efek berkurang setengah jika Role Utama bukan Fighter).\\n\\nPasif Unik - Lifeline: Saat menerima damage yang mengurangi HP di bawah 30%, memperoleh shield sebesar (120*Level Hero) (meningkat seiring level) dan 50% Movement Speed yang berkurang dengan cepat dalam 3 detik. Efek ini memiliki cooldown selama 60 detik."
-  }, 
+  },
   {
     "item_name": "Hunter Strike",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+15 Physical Penetration\\n+80 Physical Attack",
     "stat_speed": "+10% Cooldown Reduction",
-    "stat_lifesteal": "", 
+    "stat_lifesteal": "",
     "stat_crit": "",
-    "passive_title": "Retribution: ",
+    "passive_title": "Retribution / Hunter: ",
     "passive_desc": "Memberikan damage ke hero lawan atau creep yang sama 5 kali berturut-turut memberikan 50% Movement Speed tambahan yang berkurang dalam 3 detik (cooldown 8 detik).\\n\\nPasif Unik - Hunter: Meningkatkan damage terhadap monster hutan."
-  }, 
+  },
   {
     "item_name": "Blade of Despair",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png/revision/latest?cb=20210627031620",
+    "item_icon": "https://nocookie.net",
     "stat_attack": "+160 Physical Attack",
     "stat_speed": "+5 Movement Speed",
-    "stat_lifesteal": "", 
+    "stat_lifesteal": "",
     "stat_crit": "",
     "passive_title": "Despair: ",
     "passive_desc": "Memberikan kerusakan pada musuh non-Minion di bawah 50% HP meningkatkan Serangan Fisik sebesar 25% selama 2 detik (efek berlaku sebelum kerusakan diberikan)."
-  }, 
+  },
   {
     "item_name": "Blade of the Heptaseas",
-    "item_icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png/revision/latest?cb=20210627031239",
-    "stat_attack": "+70 Physical Attack\\n+250 hp\\n+15 Physical Penetration",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+70 Physical Attack\\n+250 HP\\n+15 Physical Penetration",
     "stat_speed": "",
-    "stat_lifesteal": "", 
+    "stat_lifesteal": "",
     "stat_crit": "",
     "passive_title": "Ambush: ",
     "passive_desc": "Jika tidak ada kerusakan yang diterima atau diberikan dalam 5 detik (tidak termasuk Minion atau Creep), Serangan Dasar berikutnya akan memberikan tambahan 160 (+40% Total Serangan Fisik) Kerusakan Fisik dan memperlambat target sebesar 40% selama 1,5 detik."
+  },
+  {
+    "item_name": "Berserker's Fury",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+65 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "+25% Critical Chance\\n+40% Critical Damage",
+    "passive_title": "Doom: ",
+    "passive_desc": "Critical Hit akan meningkatkan Physical Attack Hero sebesar 5% selama 2 detik."
+  },
+  {
+    "item_name": "Endless Battle",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+65 Physical Attack\\n+250 HP",
+    "stat_speed": "+10% Cooldown Reduction\\n+5% Movement Speed",
+    "stat_lifesteal": "+8% Hybrid Lifesteal",
+    "stat_crit": "",
+    "passive_title": "Divine Justice / Chase Fate: ",
+    "passive_desc": "Dalam 3 detik setelah menggunakan Skill, Basic Attack berikutnya akan memberikan True Damage tambahan sebesar 60% dari Physical Attack (cooldown 1.5 detik).\\n\\nPasif Unik - Chase Fate: Ketika efek Divine Justice aktif, meningkatkan Movement Speed sebesar 10%."
+  },
+  {
+    "item_name": "Windtalker",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40% Attack Speed\\n+20 Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "+10% Critical Chance",
+    "passive_title": "Typhoon / Activate: ",
+    "passive_desc": "Setiap 5-3 detik, Basic Attack berikutnya akan mengenai hingga 3 unit musuh dan memberikan Magic Damage.\\n\\nPasif Unik - Activate: Setiap kali Typhoon dikeluarkan, Movement Speed meningkat sebesar 5% dalam waktu singkat."
+  },
+  {
+    "item_name": "Corrosion Scythe",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+30 Physical Attack",
+    "stat_speed": "+35% Attack Speed\\n+5% Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Corrosion / Impulse: ",
+    "passive_desc": "Basic Attack memberikan efek Slow sebesar 8% (berkurang setengah untuk jarak jauh) ke target selama 1.5 detik, dapat di-stack hingga 5 kali.\\n\\nPasif Unik - Impulse: Basic Attack meningkatkan Attack Speed sebesar 6% selama 3 detik, dapat di-stack hingga 5 kali."
+  },
+  {
+    "item_name": "Demon Hunter Sword",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+35 Physical Attack",
+    "stat_speed": "+25% Attack Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Devour: ",
+    "passive_desc": "Basic Attack akan memberikan 8% dari HP target yang tersisa sebagai Physical Damage tambahan. Setiap Basic Attack juga memberikan 3% Physical Lifesteal selama 3 detik (dapat di-stack hingga 5 kali)."
+  },
+  {
+    "item_name": "Golden Staff",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+55 Physical Attack",
+    "stat_speed": "+15% Attack Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Swift / Endless Strike: ",
+    "passive_desc": "Tidak dapat meningkatkan Critical Chance. Setiap 1% Critical Chance yang diperoleh akan dikonversi menjadi 1% Attack Speed tambahan.\\n\\nPasif Unik - Endless Strike: Setiap 2 Basic Attack yang tidak menghasilkan Critical Damage, Attack Speed dari Basic Attack berikutnya akan meningkat sebesar 100% dan memicu efek On-Hit sebanyak 2 kali."
+  },
+  {
+    "item_name": "Wind of Nature",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+30 Physical Attack",
+    "stat_speed": "+20% Attack Speed",
+    "stat_lifesteal": "+10% Physical Lifesteal",
+    "stat_crit": "",
+    "passive_title": "Wind Chant (Aktif): ",
+    "passive_desc": "Skill Aktif: Menjadi kebal terhadap seluruh Physical Damage selama 2 detik (durasi berkurang setengah jika digunakan oleh hero non-Marksman). Cooldown 70 detik."
+  },
+  {
+    "item_name": "War Axe",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+25 Physical Attack\\n+550 HP",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Fighting Spirit: ",
+    "passive_desc": "Memberikan damage akan meningkatkan Physical Attack sebesar 12 dan Physical Penetration sebesar 2 setiap detik selama 3 detik, maksimal hingga 8 stack. Ketika stack penuh, juga memberikan True Damage tambahan."
+  },
+  {
+    "item_name": "Malefic Roar",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+60 Physical Attack",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Armor Buster: ",
+    "passive_desc": "Meningkatkan Physical Penetration sebesar 20%. Saat menyerang musuh, mendapatkan tambahan Physical Penetration berdasarkan Physical Defense musuh (maksimal hingga 40%)."
+  },
+  {
+    "item_name": "Haas's Claws",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+30 Physical Attack",
+    "stat_speed": "+20% Attack Speed",
+    "stat_lifesteal": "+25% Physical Lifesteal",
+    "stat_crit": "+20% Critical Chance",
+    "passive_title": "Insanity: ",
+    "passive_desc": "Saat HP hero berada di bawah 50%, memperoleh tambahan 15% Physical Lifesteal."
+  },
+  {
+    "item_name": "Sky Piercer",
+    "item_icon": "https://nocookie.net",
+    "stat_attack": "+60 Adaptive Attack",
+    "stat_speed": "+15 Adaptive Penetration",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Lethal Strike: ",
+    "passive_desc": "Setelah memberikan damage ke hero musuh yang HP-nya berada di bawah 6% (meningkat dengan stack), langsung mengeliminasi mereka. Mendapatkan stack setiap kali eliminasi, kehilangan stack saat terelimasi."
+  },
+  {
+    "item_name": "Holy Crystal",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+100 Magic Power",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Mystery: ",
+    "passive_desc": "Meningkatkan Magic Power sebesar 21% hingga 35% (skala meningkat seiring dengan Level Hero)."
+  },
+  {
+    "item_name": "Blood Wings",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+175 Magic Power",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Guard: ",
+    "passive_desc": "Memperoleh Shield setara dengan 200% dari Magic Power. Shield akan beregenerasi dalam 30 detik setelah hancur, dan meningkatkan Movement Speed sebesar 30 saat Shield aktif."
+  },
+  {
+    "item_name": "Clock of Destiny",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+60 Magic Power\n+500 HP\n+600 Mana",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Time / Reincarnation: ",
+    "passive_desc": "Mendapatkan 20 HP tambahan dan 4 Magic Power setiap 20 detik, maksimal hingga 15 kali.\n\nPasif Unik - Reincarnation: Jika stack Time penuh, Hero akan mendapatkan tambahan 5% Magic Power dan 300 Mana."
+  },
+  {
+    "item_name": "Divine Glaive",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+60 Magic Power",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Spellbreaker: ",
+    "passive_desc": "Meningkatkan Magic Penetration sebesar 40%. Saat menyerang musuh, mendapatkan tambahan Magic Penetration berdasarkan Magic Defense musuh."
+  },
+  {
+    "item_name": "Enchanted Talisman",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+50 Magic Power\n+250 HP",
+    "stat_speed": "+20% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Mana Spring / Magic Master: ",
+    "passive_desc": "Meregenerasi 15% dari Maksimum Mana setiap 10 detik secara keseluruhan.\n\nPasif Unik - Magic Master: Batas maksimal Cooldown Reduction meningkat sebesar 5%."
+  },
+  {
+    "item_name": "Genius Wand",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+75 Magic Power",
+    "stat_speed": "+5% Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Magic / Magic Justice: ",
+    "passive_desc": "Meningkatkan +10 Magic Penetration.\n\nPasif Unik - Magic Justice: Memberikan damage kepada hero musuh akan membuka/mengurangi Magic Defense mereka sebesar 3-7 (berdasarkan level) selama 2 detik. Dapat di-stack hingga 3 kali."
+  },
+  {
+    "item_name": "Glowing Wand",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+75 Magic Power\n+400 HP",
+    "stat_speed": "+5% Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Scorched / Lifebane: ",
+    "passive_desc": "Damage skill akan membakar target selama 3 detik, memberikan Magic Damage setara dengan 1% dari Max HP target per detik.\n\nPasif Unik - Lifebane: Mengurangi efek Shield dan HP Regen musuh sebesar 50% selama 3 detik."
+  },
+  {
+    "item_name": "Ice Queen Wand",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+75 Magic Power",
+    "stat_speed": "+7% Movement Speed",
+    "stat_lifesteal": "+10% Spell Vamp",
+    "stat_crit": "",
+    "passive_title": "Ice Bound: ",
+    "passive_desc": "Skill damage memberikan efek Slow sebesar 15% pada musuh selama 2 detik (dapat di-stack hingga 2 kali, maksimal menjadi 30% efek Slow)."
+  },
+  {
+    "item_name": "Lightning Truncheon",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+75 Magic Power\n+400 Mana",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Resonate: ",
+    "passive_desc": "Setiap 6 detik, skill berikutnya akan memantul dan memberikan Magic Damage tambahan hingga ke 3 musuh terdekat (skala damage meningkat seiring Max Mana hero)."
+  },
+  {
+    "item_name": "Starlium Scythe",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+70 Magic Power\n+400 Mana",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "+8% Hybrid Lifesteal",
+    "stat_crit": "",
+    "passive_title": "Crisis: ",
+    "passive_desc": "Dalam 3 detik setelah menggunakan skill, Basic Attack berikutnya akan memberikan True Damage tambahan sebesar 100% dari Magic Power dan memberikan 10% Movement Speed singkat."
+  },
+  {
+    "item_name": "Winter Crown",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+60 Magic Power\n+25 Armor",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Frozen (Aktif): ",
+    "passive_desc": "Skill Aktif: Hero membeku selama 2 detik, menjadi kebal terhadap segala damage dan efek Crowd Control, tetapi tidak dapat bergerak atau menggunakan skill. Cooldown 100 detik."
+  },
+  {
+    "item_name": "Concentrated Energy",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+70 Magic Power\n+700 HP",
+    "stat_speed": "",
+    "stat_lifesteal": "+20% Spell Vamp",
+    "stat_crit": "",
+    "passive_title": "Recharge / Mana: ",
+    "passive_desc": "Mengeliminasi hero musuh memulihkan HP sebesar 10%.\n\nPasif Unik - Mana: Meningkatkan Magic Damage sebesar 5% setelah memberikan Magic Damage (maksimal 4 stack)."
+  },
+  {
+    "item_name": "Fleeting Time",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+70 Magic Power\n+350 HP",
+    "stat_speed": "+15% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Timestream: ",
+    "passive_desc": "Mengeliminasi hero musuh atau mendapatkan assist akan langsung mengurangi waktu cooldown skill Ultimate hero sebesar 30%."
+  },
+  {
+    "item_name": "Feather of Heaven",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+55 Magic Power",
+    "stat_speed": "+20% Attack Speed\n+5% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Affliction: ",
+    "passive_desc": "Basic Attack hero memberikan Magic Damage tambahan setara dengan 50 + 30% Magic Power."
+  },
+  {
+    "item_name": "Necklace of Durance",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+60 Magic Power\n+300 HP",
+    "stat_speed": "+5% Cooldown Reduction",
+    "stat_lifesteal": "+10% Spell Vamp",
+    "stat_crit": "",
+    "passive_title": "Lifebane: ",
+    "passive_desc": "Memberikan damage ke target akan mengurangi efek Shield dan HP Regen mereka sebesar 50% selama 3 detik."
+  },
+  {
+    "item_name": "Wishing Lantern",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+70 Magic Power",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Butterfly Goddess: ",
+    "passive_desc": "Setiap kali memberikan 800 Magic Damage ke hero musuh, melepaskan seekor kupu-kupu yang memberikan True Damage setara dengan 10% dari HP target saat itu."
+  },
+  {
+    "item_name": "Flask of the Oasis",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+60 Magic Power\n+300 HP",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Blessing: ",
+    "passive_desc": "Setelah menggunakan skill pemulihan (Heal) atau perisai (Shield), jika HP target berada di bawah 35% dalam 5 detik berikutnya, memberikan Shield besar tambahan selama 3 detik."
+  },
+  {
+    "item_name": "Antique Cuirass",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Deter: ",
+    "passive_desc": "Saat terkena hit oleh skill hero musuh, mengurangi Physical Attack mereka sebesar 6% selama 2 detik (dapat di-stack hingga 3 kali)."
+  },
+  {
+    "item_name": "Athena's Shield",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Shield: ",
+    "passive_desc": "Dapat dipicu saat menerima Magic Damage. Mengurangi Magic Damage yang diterima sebesar 25% selama 3 detik (termasuk damage yang memicu efek ini). Efek ini mereset setelah meninggalkan pertarungan selama 5 detik."
+  },
+  {
+    "item_name": "Blade Armor",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Bladed Armor: ",
+    "passive_desc": "Saat diserang dengan Basic Attack, memberikan Physical Damage setara dengan 25% dari Physical Defense sendiri + 25% dari damage musuh kembali ke penyerang, serta memberikan efek Slow sebesar 15% selama 1 detik."
+  },
+  {
+    "item_name": "Dominance Ice",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Arctic Cold / Lifebane: ",
+    "passive_desc": "Mengurangi Attack Speed hero musuh terdekat sebesar 30%.\n\nPasif Unik - Lifebane: Mengurangi efek Shield dan HP Regen hero musuh terdekat sebesar 50%."
+  },
+  {
+    "item_name": "Immortality",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Immortal: ",
+    "passive_desc": "Menghidupkan kembali hero 2.5 detik setelah tereliminasi, memberikan 16% Max HP dan Shield yang dapat menyerap 220-1200 damage (berskala dengan level) selama 3 detik. Efek ini memiliki cooldown selama 210 detik."
+  },
+  {
+    "item_name": "Oracle",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Bless: ",
+    "passive_desc": "Meningkatkan efek Shield Absorption dan HP Regen yang diterima sebesar 30%."
+  },
+  {
+    "item_name": "Radiant Armor",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Holy Blessing: ",
+    "passive_desc": "Setelah menerima Magic Damage, meningkatkan Magic Defense sebesar 5-8 (berskala dengan level) selama 3 detik, maksimal hingga 6 stack."
+  },
+  {
+    "item_name": "Thunder Belt",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Thunderstrike: ",
+    "passive_desc": "Setelah menggunakan skill, Basic Attack berikutnya memberikan True Damage tambahan sebesar 50 + 5% dari Extra Max HP hero ke target dan musuh di sekitarnya, serta memberikan efek Slow selama 1 detik (cooldown 1.5 detik)."
+  },
+  {
+    "item_name": "Cursed Helmet",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Burning Soul: ",
+    "passive_desc": "Memberikan Magic Damage setara dengan 1.2% dari Max HP hero per detik ke musuh di sekitar. Damage ini meningkat menjadi 210% terhadap Minion dan monster hutan."
+  },
+  {
+    "item_name": "Guardian Helmet",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Recovery: ",
+    "passive_desc": "Meregenerasi 2.5% Max HP hero per detik (berkurang menjadi 0.5% selama 5 detik setelah menerima damage dari musuh)."
+  },
+  {
+    "item_name": "Queen's Wings",
+    "item_icon": "nocookie.net",
+    "stat_attack": "+15 Physical Attack\n+1000 HP",
+    "stat_speed": "+10% Cooldown Reduction",
+    "stat_lifesteal": "+5% Spell Vamp",
+    "stat_crit": "",
+    "passive_title": "Demonize: ",
+    "passive_desc": "Mengurangi damage yang diterima sebesar 20% ketika HP hero berada di bawah 40%, dan meningkatkan Spell Vamp sebesar 35% selama 5 detik. Cooldown efek ini adalah 60 detik."
+  },
+  {
+    "item_name": "Brute Force Breastplate",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Brute Force: ",
+    "passive_desc": "Menggunakan skill atau Basic Attack akan meningkatkan Movement Speed sebesar 2%, serta Physical & Magic Defense sebesar 4 selama 4 detik. Stack hingga 5 kali."
+  },
+  {
+    "item_name": "Twilight Armor",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Twilight: ",
+    "passive_desc": "Setelah menerima damage lebih dari 600 dalam sekali serangan, mengurangi damage selanjutnya yang melebihi jumlah tersebut sebesar 20% selama 3 detik. Cooldown 15 detik."
+  },
+  {
+    "item_name": "Warrior Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40 Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Valor: ",
+    "passive_desc": "Physical Defense meningkat sebesar 5 setiap kali menerima Basic Attack, maksimal hingga 25 stack. Efek bertahan selama 3 detik."
+  },
+  {
+    "item_name": "Tough Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40 Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Fortitude: ",
+    "passive_desc": "Mengurangi durasi efek Crowd Control (CC) dan Slow yang diterima sebesar 30%."
+  },
+  {
+    "item_name": "Magic Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40 Movement Speed\n+10% Cooldown Reduction",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": "Memberikan tambahan kecepatan gerak serta pengurangan durasi cooldown skill."
+  },
+  {
+    "item_name": "Arcane Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40 Movement Speed\n+10 Magic Penetration",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": "Sepatu khusus mage untuk menembus pertahanan sihir lawan."
+  },
+  {
+    "item_name": "Swift Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40 Movement Speed\n+15% Attack Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "",
+    "passive_desc": "Meningkatkan kecepatan serang dan mobilitas hero dasar."
+  },
+  {
+    "item_name": "Demon Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+40 Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Mysticism: ",
+    "passive_desc": "Mengeliminasi hero musuh atau mendapatkan assist memulihkan Mana sebesar 10%. Mengeliminasi minion memulihkan Mana sebesar 4%."
+  },
+  {
+    "item_name": "Rapid Boots",
+    "item_icon": "nocookie.net",
+    "stat_attack": "",
+    "stat_speed": "+70 Movement Speed",
+    "stat_lifesteal": "",
+    "stat_crit": "",
+    "passive_title": "Side Effect: ",
+    "passive_desc": "Memberikan atau menerima damage mengurangi Movement Speed hero sebesar 25 selama 5 detik."
   }
 ]
