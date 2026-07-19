@@ -1,0 +1,15 @@
+[
+  {
+    "her": "Aamon",
+    "roll": "Assassin | Chase, Magic Damage",
+    "URL": "https://githubusercontent.com",
+    "stat_durability": "35",
+    "stat_offense": "85",
+    "stat_control": "20",
+    "stat_difficulty": "65",
+    "skill_title": "Invisible Armor (Pasif)",
+    "skill_URL": "https://githubusercontent.com",
+    "skill_desc": "Aamon memasuki mode Camouflage setiap kali skill-nya mengenai lawan. Dalam mode ini, dia tidak bisa ditarget, memulihkan HP berdasarkan Magic Power, dan mendapatkan bonus kecepatan gerak secara drastis selama 3 detik.",
+    "best_build": "Arcane Boots, Genius Wand, Glowing Wand, Holy Crystal, Divine Glaive, Blood Wings"
+  }
+]
