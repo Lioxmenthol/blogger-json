@@ -12,5 +12,12 @@
     "menu_icon_left": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Thunder_Belt.webp",
     "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
     "target_page": "EequipmentActivity"
+  }, 
+  {
+    "menu_title": "WinRate Calculator",
+    "menu_sub": "Matches to target WinRate",
+    "menu_icon_left": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784442663116.png",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "CalculatorActivity"
   }
 ]
