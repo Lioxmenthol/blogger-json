@@ -14,5 +14,22 @@
     "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Soul_Shards.png/revision/latest?cb=20211203045706",
     "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Slayer_Shards.png/revision/latest?cb=20211203045819",
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Endless_Shards.png/revision/latest?cb=20211203045950"
+  }, 
+    {
+    "her": "Alucard",
+    "roll": "Fighter | Chase, Lifesteal",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20241021140353",
+    "stat_durability": "55",
+    "stat_offense": "75",
+    "stat_control": "30",
+    "stat_difficulty": "40",
+    "skill_title": "Pursuit (Pasif)",
+    "skill_desc": "🔴 PASIF - PURSUIT:\nSetelah menggunakan skill apa pun, Basic Attack Alucard berikutnya akan memicu efek Pursuit, di mana ia akan langsung melompat (Dash) ke arah target terdekat dan memberikan bonus Damage sebesar 1.2x lipat. Jika serangan ini hanya mengenai satu hero lawan, damage-nya meningkat menjadi 1.5x lipat. Selain itu, skill ini memberikan efek lifesteal ekstra yang membuat HP Alucard terisi cepat saat bertarung satu lawan satu.\n\n🔵 SKILL 1 - GROUNDSPLITTER:\nAlucard melompat ke area yang ditentukan dan menghempaskan pedangnya dengan kuat ke tanah. Memberikan Physical Damage yang cukup besar kepada semua musuh di area pendaratan tersebut. Musuh yang terkena tebasan ini juga akan terkena efek Slow sebesar 40% selama 2 detik. Skill ini sangat berguna untuk membuka war, mengejar musuh yang mencoba kabur, atau melompati dinding map.\n\n🟡 SKILL 2 - WHIRLWIND:\nAlucard melakukan tebasan memutar pedangnya secara cepat 360 derajat di sekeliling tubuhnya. Memberikan Physical Damage yang merata kepada seluruh musuh, minion, atau monster jungle terdekat yang berada di dalam jangkauan putaran pedangnya. Skill ini memiliki cooldown yang sangat singkat dan merupakan senjata utama Alucard untuk membersihkan minion (clearing lane) maupun farming di jungle.\n\n💜 ULTIMATE (SKILL 3) - FISSION WAVE:\nAlucard mengunci hero musuh di area target dan menyerap energi pedangnya, meningkatkan efek Hybrid Lifesteal miliknya secara drastis sebesar 28% hingga 40%, serta mengaktifkan pasif Pursuit pada setiap serangan selama 8 detik. Selama ultimate aktif, Alucard dapat memicu gelombang kejut energi pedang (Shockwave) ke depan dalam jalur lurus yang menghasilkan burst Physical Damage sangat masif kepada musuh di jalurnya sekaligus memberikan efek slow 50%.",
+    "best_build": "Warrior Boots, Hunter Strike, Endless Battle, Blade of Despair, Malefic Roar, Immortality",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Pursuit.png/revision/latest?cb=20211216232556",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Groundsplitter.png/revision/latest?cb=20200718155948",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Whirling_Smash.png/revision/latest?cb=20211216232613",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Fission_Wave.png/revision/latest?cb=20211216232655"
   }
+
 ]
