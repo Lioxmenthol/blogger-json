@@ -30,5 +30,53 @@
     "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Groundsplitter.png/revision/latest?cb=20200718155948",
     "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Whirling_Smash.png/revision/latest?cb=20211216232613",
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Fission_Wave.png/revision/latest?cb=20211216232655"
+  }, 
+  {
+    "her": "Gusion",
+    "roll": "Assassin | Chase, Burst",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20241021142006",
+    "stat_durability": "40",
+    "stat_offense": "90",
+    "stat_control": "15",
+    "stat_difficulty": "85",
+    "skill_title": "Dagger Specialist (Pasif) [Combo: Skill 2 -> Skill 1 -> Skill 3 -> Skill 2 -> Skill 1 -> Recast Skill 2 -> Recast Skill 1]",
+    "skill_desc": "🔴 PASIF - DAGGER SPECIALIST:\nSetiap kali Gusion menggunakan skill, sebuah rune akan ditambahkan ke belatinya. Setelah mengumpulkan 4 rune, Basic Attack berikutnya akan memberikan damage tambahan sebesar 15% dari HP target yang hilang, sekaligus memulihkan HP Gusion berdasarkan damage yang dihasilkan.\n\n🔵 SKILL 1 - SWORD SPIKE:\nGusion melemparkan belati ke arah target, memberikan Magic Damage. Jika diaktifkan kembali, Gusion akan langsung melesat (Dash) ke belakang musuh yang terkena belati tersebut dan memberikan damage tambahan.\n\n🟡 SKILL 2 - SHADOWBLADE SLAUGHTER:\nGusion melemparkan 5 belati ke depan dalam formasi kipas, memberikan Magic Damage dan efek slow. Jika diaktifkan kembali, belati-belati tersebut akan terbang kembali ke arah Gusion, memberikan damage ekstra pada musuh yang dilewatinya.\n\n💜 ULTIMATE (SKILL 3) - INKANDESCENCE:\nGusion melakukan dash ke arah yang ditentukan dan langsung me-refresh (mereset) cooldown dari Skill 1 dan Skill 2 miliknya. Jika diaktifkan kembali dalam beberapa detik, ia dapat melakukan dash pendek sekali lagi.",
+    "best_build": "Arcane Boots (Menambah +10 Magic Penetration untuk menembus pertahanan awal musuh), Genius Wand (Mengurangi Magic Defense musuh secara bertahap lewat kombo tusukan belati cepat), Glowing Wand (Memberikan efek burn berkala sekaligus mengurangi shield/heal lawan), Holy Crystal (Meningkatkan Magic Power secara masif berbasis persentase level), Divine Glaive (Sangat krusial menembus Magic Defense tebal milik Tank di late game), Blood Wings (Menyediakan tambahan Magic Power tertinggi serta shield pelindung ekstra)",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Dagger_Specialist.png/revision/latest?cb=20220908163637",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Sword_Spike.png/revision/latest?cb=20220908163717",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Shadowblade_Slaughter.png/revision/latest?cb=20220908163704",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Incandescence.png/revision/latest?cb=20220908163651"
+  },
+  {
+    "her": "Miya",
+    "roll": "Marksman | Finisher, Damage",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20250407160822",
+    "stat_durability": "30",
+    "stat_offense": "85",
+    "stat_control": "45",
+    "stat_difficulty": "30",
+    "skill_title": "Moon Blessing (Pasif) [Combo: Ultimate -> Skill 2 -> Skill 1 -> Spam Basic Attack]",
+    "skill_desc": "🔴 PASIF - MOON BLESSING:\nSetiap kali Basic Attack Miya mengenai target, Attack Speed miliknya akan meningkat sebesar 5% (dapat di-stack hingga 5 kali). Setelah stack penuh, Miya akan memanggil Moonlight Shadow untuk membantunya menembak, memberikan physical damage tambahan yang besar.\n\n🔵 SKILL 1 - MOON ARROW:\nMiya membagi panahnya menjadi beberapa bagian, membuat Basic Attack-nya dapat menyerang target utama dan beberapa musuh terdekat secara bersamaan selama beberapa detik dengan damage yang disesuaikan.\n\n🟡 SKILL 2 - ARROW OF ECLIPSE:\nMiya menembakkan seberkas Moon Arrow ke area yang ditentukan, memberikan Physical Damage dan menyebabkan efek Immobilize (tidak bisa bergerak) kepada musuh yang berada tepat di tengah area selama 1.2 detik.\n\n💜 ULTIMATE (SKILL 3) - HIDDEN MOONLIGHT:\nMiya langsung menghapus semua efek Crowd Control (CC) yang menjeratnya, lalu memasuki mode menghilang (Invisibility) serta meningkatkan Movement Speed-nya secara drastis selama 2 detik.",
+    "best_build": "Swift Boots (Meningkatkan kecepatan Attack Speed dasar di awal permainan), Windtalker (Memberikan tambahan Attack Speed, Critical Chance, dan splash damage untuk clear minion), Berserker's Fury (Item inti untuk melipatgandakan Damage Critical menjadi sangat mematikan), Haas' Claws (Menyediakan Lifesteal fisik yang besar serta stats Critical agar darah cepat penuh saat adu tembak), Malefic Roar (Menembus Physical Defense musuh persentase besar di fase late game), Blade of Despair (Memberikan Physical Attack tertinggi untuk menghabisi musuh sekarat secara instan)",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Moon_Blessing.png/revision/latest?cb=20220302071911",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Moon_Arrow.png/revision/latest?cb=20220302071842",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Arrow_of_Eclipse.png/revision/latest?cb=20220302071714",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hidden_Moonlight.png/revision/latest?cb=20220302071615"
+  },
+  {
+    "her": "Tigreal",
+    "roll": "Tank | Crowd Control, Initiator",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20241021140350",
+    "stat_durability": "85",
+    "stat_offense": "40",
+    "stat_control": "80",
+    "stat_difficulty": "35",
+    "skill_title": "Fearless (Pasif) [Combo: Flicker -> Ultimate -> Skill 2 (Dorong ke arah tim) -> Skill 1]",
+    "skill_desc": "🔴 PASIF - FEARLESS:\nTigreal mendapatkan satu stack Fearless setiap kali menggunakan skill atau menerima Basic Attack dari lawan. Setelah mengumpulkan 4 stack, Tigreal akan sepenuhnya kebal (Block) terhadap Basic Attack musuh berikutnya.\n\n🔵 SKILL 1 - ATTACK WAVE:\nTigreal menghempaskan senjatanya ke tanah, menembakkan gelombang kejut ke depan yang memberikan Physical Damage secara berkala dalam jalur lurus dan menyebabkan efek slow kepada musuh.\n\n🟡 SKILL 2 - SACRED HAMMER:\nTigreal melakukan charge (menyeruduk) ke arah yang ditentukan, mendorong semua musuh di jalurnya. Jika diaktifkan kembali, ia akan melakukan tebasan ke atas yang melemparkan musuh ke udara (Airborne).\n\n💜 ULTIMATE (SKILL 3) - IMPLOSION:\nTigreal menghantamkan perisainya ke tanah, menarik seluruh musuh di sekitarnya secara paksa ke arah tubuhnya dan memberikan efek Stun yang kuat selama 1.5 detik.",
+    "best_build": "Tough Boots (Mengurangi durasi efek CC musuh sekaligus menambah Magic Defense), Dominance Ice (Mengurangi Attack Speed musuh di sekitar dan menekan efek regen HP/Shield mereka), Athena's Shield (Memberikan perisai pelindung yang meredam burst damage sihir dari Mage lawan), Antique Cuirass (Mengurangi Physical Attack musuh saat Tigreal terkena hit skill mereka), Blade Armor (Mengembalikan damage Basic Attack yang diterima kepada penyerang sekaligus memberi Physical Defense tertinggi), Immortality (Memberikan nyawa kedua agar bisa kembali melindungi rekan satu tim)",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Fearless.png/revision/latest?cb=20250918045822",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Attack_Wave.png/revision/latest?cb=20250918045844",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Sacred_Hammer.png/revision/latest?cb=20250918045909",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Implosion.png/revision/latest?cb=20250918045911"
   }
 ]
