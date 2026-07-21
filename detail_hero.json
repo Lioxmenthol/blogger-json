@@ -32,6 +32,22 @@
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Fission_Wave.png/revision/latest?cb=20211216232655"
   }, 
   {
+  "her": "Alice",
+  "roll": "Tank | Mage, Charge, Regen",
+  "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero041-portrait.png/revision/latest",
+  "stat_durability": "50",
+  "stat_offense": "55",
+  "stat_control": "70",
+  "stat_difficulty": "40",
+  "skill_title": "Crimson Blood Banquet (Pasif) [Combo: Skill 1 -> Teleport Skill 1 -> Skill 2 -> Ultimate -> Spam Skill 1]",
+  "skill_desc": "🔴 PASIF - CRIMSON BLOOD BANQUET:\nSetiap kali skill Alice berhasil mengenai hero lawan, Alice akan mengumpulkan energi darah (Crimson Stack). Setelah mencapai jumlah tertentu, Blood Banquet akan aktif secara otomatis dan menghasilkan ledakan darah di sekitar tubuhnya yang memberikan Magic Damage berkala berdasarkan Max HP target sekaligus memulihkan HP Alice secara terus menerus. Selama efek ini aktif, Alice juga memperoleh bonus Movement Speed sehingga lebih mudah mengejar maupun melarikan diri dari lawan.\n\n🔵 SKILL 1 - CRIMSON GLEAM:\nAlice menembakkan bola darah ke arah yang ditentukan dan memberikan Magic Damage kepada semua musuh yang dilewati. Sebelum bola darah tersebut menghilang, Alice dapat mengaktifkan kembali skill ini untuk melakukan teleportasi instan menuju lokasi bola darah tersebut berada. Skill ini sangat efektif untuk melakukan inisiasi, kabur dari kejaran musuh, menembus tembok, maupun mengejutkan hero lawan dari jarak jauh.\n\n🟡 SKILL 2 - BLOOD AWE:\nAlice melepaskan gelombang energi darah ke area di sekitarnya yang menghasilkan Magic Damage cukup besar. Hero musuh yang terkena akan menerima efek Immobilize sehingga tidak dapat bergerak selama beberapa saat. Skill ini menjadi senjata utama Alice untuk mengunci target sebelum melanjutkan kombo Ultimate.\n\n💜 ULTIMATE (SKILL 3) - BLOOD ODE:\nAlice memasuki mode Blood Ode dan terus menerus menyerap darah seluruh musuh di sekitarnya. Selama skill aktif, musuh akan menerima Magic Damage berkala sedangkan Alice memulihkan HP dalam jumlah besar berdasarkan jumlah target yang terkena. Semakin banyak hero musuh berada di sekitar Alice, semakin besar pula regenerasi HP yang diperoleh. Skill ini menjadikan Alice sangat kuat saat teamfight dan sulit dibunuh ketika berada di tengah kerumunan lawan.",
+  "best_build": "Tough Boots (Mengurangi durasi Crowd Control sekaligus menambah Magic Defense untuk bertahan di awal permainan), Clock of Destiny (Memberikan HP, Mana, dan Magic Power yang meningkat seiring berjalannya pertandingan), Lightning Truncheon (Menambahkan ledakan Magic Damage area yang sangat cocok dengan skill spam Alice), Oracle (Meningkatkan efek regenerasi HP dan Shield sehingga Ultimate Alice menjadi jauh lebih kuat), Holy Crystal (Meningkatkan Magic Power secara signifikan untuk memperbesar seluruh damage skill), Immortality (Memberikan kesempatan hidup kedua saat menjadi target utama lawan dalam teamfight)",
+  "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Crimson_Blood_Banquet.png/revision/latest",
+  "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Crimson_Gleam.png/revision/latest",
+  "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Blood_Awe.png/revision/latest",
+  "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Blood_Ode.png/revision/latest"
+  }, 
+  {
     "her": "Gusion",
     "roll": "Assassin | Chase, Burst",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20241021142006",
