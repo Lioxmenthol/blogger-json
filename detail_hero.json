@@ -7,15 +7,15 @@
     "stat_offense": "85",
     "stat_control": "20",
     "stat_difficulty": "65",
-    "skill_title": "Invisible Armor (Pasif)",
+    "skill_title": "Invisible Armor (Pasif) [Combo: Skill 2 -> Basic Attack -> Skill 1 -> Basic Attack -> Ultimate]",
     "skill_desc": "🔴 PASIF - INVISIBLE ARMOR:\nAamon memasuki mode Camouflage setiap kali skill-nya mengenai lawan. Dalam mode ini, dia tidak bisa ditarget oleh basic attack, memulihkan HP secara berkala berdasarkan Magic Power, dan mendapatkan bonus kecepatan gerak secara drastis sebesar 60% yang akan berkurang seiring waktu selama 3 detik. Setelah keluar dari mode ini, serangan biasa berikutnya akan diperkuat dan mengurangi cooldown skill-nya secara instan.\n\n🔵 SKILL 1 - SOUL SHARDS:\nAamon melemparkan bilah pisau ke arah target yang ditentukan, memberikan Magic Damage yang sakit. Secara pasif, skill ini mengumpulkan bilah pisau (shards) di sekitar tubuhnya setiap kali ia menyerang atau menggunakan skill. Saat diaktifkan kembali, semua pisau yang terkumpul akan otomatis terbang menyerang musuh secara beruntun dan langsung memicu efek menghilang (Pasif).\n\n🟡 SKILL 2 - SLAYER SHARDS:\nAamon melemparkan bilah pisau tajam ke depan dalam jalur lurus. Musuh pertama yang terkena akan menerima Magic Damage dan efek Slow yang signifikan sebesar 50% selama 2 detik. Jika pisau ini berhasil mengenai hero lawan atau monster jungle, pisau tersebut akan langsung berputar kembali ke tubuh Aamon dan secara instan memicu mode menghilang Camouflage.\n\n💜 ULTIMATE (SKILL 3) - ENDLESS SHARDS:\nAamon melemparkan semua bilah pisau yang tersimpan di tanah dan di sekitar tubuhnya ke arah satu target musuh utama. Semakin banyak pisau yang tertinggal di tanah (maksimal hingga 12-18 pisau), maka ledakan damage-nya akan berlipat ganda semakin mematikan. Menghasilkan burst Magic Damage yang sangat dahsyat dan damage akan meningkat pesat jika HP hero lawan berada di bawah 30% (Sangat cocok untuk finishing musuh sekarat).",
-    "best_build": "Arcane Boots, Genius Wand, Glowing Wand, Holy Crystal, Divine Glaive, Blood Wings",
+    "best_build": "Arcane Boots (Menambah +10 Magic Penetration awal untuk menembus pertahanan musuh), Genius Wand (Mengurangi Magic Defense musuh secara bertahap saat terkena hit, sangat cocok dengan multi-hit Aamon), Glowing Wand (Memberikan efek bakar berbasis HP musuh sekaligus mengurangi efek penyembuhan/shield lawan), Holy Crystal (Meningkatkan Magic Power dalam jumlah masif secara persentase seiring level hero), Divine Glaive (Menembus pertahanan musuh tanky lewat atribut +40% Magic Penetration), Blood Wings (Memberikan tambahan Magic Power tertinggi sekaligus shield ekstra untuk pertahanan diri)",
     "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Invisible_Armor.png/revision/latest?cb=20211203045614",
     "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Soul_Shards.png/revision/latest?cb=20211203045706",
     "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Slayer_Shards.png/revision/latest?cb=20211203045819",
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Endless_Shards.png/revision/latest?cb=20211203045950"
   }, 
-    {
+  {
     "her": "Alucard",
     "roll": "Fighter | Chase, Lifesteal",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20241021140353",
@@ -23,13 +23,12 @@
     "stat_offense": "75",
     "stat_control": "30",
     "stat_difficulty": "40",
-    "skill_title": "Pursuit (Pasif)",
+    "skill_title": "Pursuit (Pasif) [Combo: Skill 1 -> Ultimate -> Skill 2 -> Basic Attack -> Ultimate Fase 2]",
     "skill_desc": "🔴 PASIF - PURSUIT:\nSetelah menggunakan skill apa pun, Basic Attack Alucard berikutnya akan memicu efek Pursuit, di mana ia akan langsung melompat (Dash) ke arah target terdekat dan memberikan bonus Damage sebesar 1.2x lipat. Jika serangan ini hanya mengenai satu hero lawan, damage-nya meningkat menjadi 1.5x lipat. Selain itu, skill ini memberikan efek lifesteal ekstra yang membuat HP Alucard terisi cepat saat bertarung satu lawan satu.\n\n🔵 SKILL 1 - GROUNDSPLITTER:\nAlucard melompat ke area yang ditentukan dan menghempaskan pedangnya dengan kuat ke tanah. Memberikan Physical Damage yang cukup besar kepada semua musuh di area pendaratan tersebut. Musuh yang terkena tebasan ini juga akan terkena efek Slow sebesar 40% selama 2 detik. Skill ini sangat berguna untuk membuka war, mengejar musuh yang mencoba kabur, atau melompati dinding map.\n\n🟡 SKILL 2 - WHIRLWIND:\nAlucard melakukan tebasan memutar pedangnya secara cepat 360 derajat di sekeliling tubuhnya. Memberikan Physical Damage yang merata kepada seluruh musuh, minion, atau monster jungle terdekat yang berada di dalam jangkauan putaran pedangnya. Skill ini memiliki cooldown yang sangat singkat dan merupakan senjata utama Alucard untuk membersihkan minion (clearing lane) maupun farming di jungle.\n\n💜 ULTIMATE (SKILL 3) - FISSION WAVE:\nAlucard mengunci hero musuh di area target dan menyerap energi pedangnya, meningkatkan efek Hybrid Lifesteal miliknya secara drastis sebesar 28% hingga 40%, serta mengaktifkan pasif Pursuit pada setiap serangan selama 8 detik. Selama ultimate aktif, Alucard dapat memicu gelombang kejut energi pedang (Shockwave) ke depan dalam jalur lurus yang menghasilkan burst Physical Damage sangat masif kepada musuh di jalurnya sekaligus memberikan efek slow 50%.",
-    "best_build": "Warrior Boots, Hunter Strike, Endless Battle, Blade of Despair, Malefic Roar, Immortality",
+    "best_build": "Warrior Boots (Meningkatkan Physical Defense saat menerima Basic Attack musuh di awal game), Hunter Strike (Memberikan Physical Penetration tinggi dan tambahan Movement Speed kilat setelah menyerang berturut-turut), Endless Battle (Menghasilkan True Damage tambahan setelah menggunakan skill, sangat serasi dengan pasif lompat Alucard), Blade of Despair (Meningkatkan Physical Attack secara ekstrim terutama saat darah target di bawah 50%), Malefic Roar (Menembus Armor fisik musuh persentase besar, krusial di late game melawan Tank), Immortality (Memberikan kesempatan hidup kedua setelah tereliminasi agar bisa lifesteal kembali)",
     "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Pursuit.png/revision/latest?cb=20211216232556",
     "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Groundsplitter.png/revision/latest?cb=20200718155948",
     "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Whirling_Smash.png/revision/latest?cb=20211216232613",
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Fission_Wave.png/revision/latest?cb=20211216232655"
   }
-
 ]
