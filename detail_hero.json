@@ -162,7 +162,7 @@
   {
     "her": "Aurora",
     "roll": "Mage | Crowd Control, Burst",
-    "URL": "",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20241021141501",
     "stat_durability": "35",
     "stat_offense": "85",
     "stat_control": "95",
@@ -171,9 +171,9 @@
     "skill_desc": "🔴 PASIF - PRIDE OF ICE:\nAurora mewarisi kekuatan Ratu Utara yang mampu membekukan seluruh medan pertempuran. Setiap kali Aurora menggunakan skill, ia akan mengumpulkan energi es yang memperkuat kemampuan sihirnya. Saat energi mencapai batas tertentu, skill berikutnya akan menghasilkan efek Frost yang jauh lebih kuat dan memberikan Crowd Control tambahan kepada musuh yang terkena. Pasif ini membuat Aurora sangat berbahaya dalam teamfight karena satu kombo yang tepat dapat menghentikan pergerakan beberapa hero lawan sekaligus dan membuka kesempatan besar bagi tim untuk melakukan serangan lanjutan.\n\n🔵 SKILL 1 - FROST SHOCK:\nAurora melepaskan gelombang energi es ke arah yang ditentukan. Gelombang tersebut memberikan Magic Damage kepada seluruh musuh yang dilewati serta menyebabkan efek Slow selama beberapa detik. Ketika dipadukan dengan energi es dari pasifnya, Frost Shock mampu menjadi alat poke yang sangat efektif sekaligus mempersiapkan target untuk menerima kombo berikutnya. Cooldown yang relatif singkat membuat skill ini menjadi sumber damage utama Aurora sepanjang pertandingan.\n\n🟡 SKILL 2 - BITING COLD:\nAurora memanggil kekuatan dingin ekstrem dan menguncinya pada satu target musuh. Target akan menerima Magic Damage besar secara instan serta efek Crowd Control yang membuat mereka sangat sulit melarikan diri. Skill ini sering digunakan untuk mengunci Assassin, Marksman, atau Mage lawan sebelum Aurora melepaskan seluruh kombo burst damage miliknya. Dengan bantuan pasif, Biting Cold dapat menjadi ancaman mematikan bagi hero dengan mobilitas tinggi.\n\n💜 ULTIMATE (SKILL 3) - FROZEN BLIZZARD:\nAurora memanggil badai salju raksasa ke area yang ditentukan dan menciptakan ledakan es yang sangat dahsyat. Seluruh musuh di area tersebut akan menerima Magic Damage besar serta terkena efek Crowd Control yang signifikan. Setelah ledakan utama terjadi, badai salju akan terus berlangsung selama beberapa saat dan menghasilkan damage tambahan secara berkala. Ultimate ini memiliki area yang luas dan sangat efektif untuk membuka teamfight, mengamankan objektif besar seperti Lord, maupun menghancurkan formasi musuh dalam satu serangan besar.",
     "best_build": "\n\nArcane Boots:\n(Menambahkan Magic Penetration untuk meningkatkan damage sejak awal permainan),\n\nGlowing Wand:\n(Memberikan efek burn berkelanjutan sekaligus mengurangi efek regenerasi lawan),\n\nGenius Wand:\n(Mengurangi Magic Defense musuh secara bertahap sehingga kombo Aurora terasa lebih sakit),\n\nHoly Crystal:\n(Meningkatkan Magic Power dalam jumlah sangat besar untuk memperkuat seluruh skill),\n\nDivine Glaive:\n(Menembus Magic Defense tinggi yang dimiliki Tank maupun Fighter lawan),\n\nBlood Wings:\n(Memberikan Magic Power tertinggi sekaligus Shield tambahan agar Aurora lebih aman saat teamfight)",
     "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Pride_of_Ice.png/revision/latest?cb=20240207104508",
-    "skill1_URL": "",
-    "skill2_URL": "",
-    "skill_ult_URL": ""
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hailstone_Blast.png/revision/latest?cb=20240207104504",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Frosty_Breeze.png/revision/latest?cb=20240207104501",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Frigid_Glacier.png/revision/latest?cb=20240207104457"
   },
   {
     "her": "Badang",
