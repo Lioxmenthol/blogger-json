@@ -160,6 +160,22 @@
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Fatal_Links.png/revision/latest?cb=20220410091537"
   },
   {
+    "her": "Aulus",
+    "roll": "Fighter | Damage, Charge",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20260423100521",
+    "stat_durability": "75",
+    "stat_offense": "80",
+    "stat_control": "45",
+    "stat_difficulty": "40",
+    "skill_title": "Fighting Spirit (Pasif) [Combo: Skill 1 -> Skill 2 -> Basic Attack -> Ultimate -> Basic Attack]",
+    "skill_desc": "🔴 PASIF - FIGHTING SPIRIT:\nSetelah memberikan damage, Aulus menambahkan stack Fighting Spirit ke kapaknya setiap detik selama 4 detik (hingga 6 stack). Setiap stack memberikan bonus Attack Speed berdasarkan level hero. Pada stack maksimal, Basic Attack Aulus diperkuat dan mendapatkan tambahan jarak serang, memberikan Physical Damage garis lurus yang berskala dengan Max HP target.\n\n🔵 SKILL 1 - AULUS, CHARGE!:\nAulus mulai mengumpulkan Fighting Spirit, menghapus semua efek slow, dan mendapatkan 30% tambahan Movement Speed selama 5 detik. Jika Aulus tidak terkena efek control tingkat tinggi (Crowd Control keras) dalam waktu 2 detik, dia akan memasuki mode Enraged dan mendapatkan kekebalan total terhadap efek Control (Control Immunity).\n\n🟡 SKILL 2 - THE POWER OF AXE:\nAulus mengayunkan kapaknya, memberikan Physical Damage ke area berbentuk kipas di depannya dan memberikan efek slow sebesar 30% selama 2 detik. Setelah mengenai musuh, skill ini dapat diaktifkan kembali secara instan untuk melakukan dash ke depan dan menghantam tanah, memberikan damage tambahan ke musuh di sekitarnya.\n\n💜 ULTIMATE (SKILL 3) - UNDYING FURY:\nAulus mengayunkan kapaknya berulang kali ke arah musuh terdekat, memberikan Physical Damage pada setiap ayunan. Setelah 4 tebasan, ia melakukan charge singkat sebelum melepaskan tebasan besar (AOE), memberikan damage fisik masif ke area yang luas. Selama skill aktif, Aulus mendapatkan 20% Damage Reduction dan bonus Movement Speed singkat di setiap tebasan.",
+    "best_build": "\n\nTough Boots:\n(Mengurangi durasi Slow/CC dan Stun saat diterima dari musuh),\n\nWindtalker:\n(Memberikan tambahan Attack Speed dan Movement Speed tinggi agar stack pasif cepat penuh),\n\nBerserker's Fury:\n(Meningkatkan Critical Chance dan Critical Damage secara masif untuk burst damage Basic Attack),\n\nEndless Battle:\n(Memberikan True Damage setelah menggunakan skill, lifesteal, serta tambahan atribut yang seimbang),\n\nGreat Dragon Spear:\n(Meningkatkan Critical Chance serta memberikan bonus Movement Speed masif setelah menggunakan Ultimate),\n\nMalefic Roar:\n(Menembus Physical Defense musuh yang tebal lewat atribut Physical Penetration yang tinggi)",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Fighting_Spirit.png/revision/latest?cb=20260423100255",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Aulus%2C_Charge%21.png/revision/latest?cb=20260423100322",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/The_Power_of_Axe.png/revision/latest?cb=20260423100344",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Cleaving_Axe.png/revision/latest?cb=20260423100403"
+  }, 
+  {
     "her": "Aurora",
     "roll": "Mage | Crowd Control, Burst",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20241021141501",
@@ -178,7 +194,7 @@
   {
     "her": "Badang",
     "roll": "Fighter | Charge, Burst",
-    "URL": "",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20241021142519",
     "stat_durability": "65",
     "stat_offense": "80",
     "stat_control": "75",
@@ -186,15 +202,15 @@
     "skill_title": "Chivalry Fist (Pasif) [Combo: Skill 2 -> Skill 1 -> Ultimate -> Basic Attack]",
     "skill_desc": "🔴 PASIF - CHIVALRY FIST:\nBadang memperoleh kekuatan dari tinju sucinya yang mampu menghancurkan pertahanan lawan. Setiap kali Basic Attack atau skill Badang mengenai musuh, target akan terdorong ke belakang dalam jarak tertentu. Jika musuh terdorong hingga mengenai tembok atau penghalang buatan Badang, mereka akan terkena efek Stun singkat dan menerima Physical Damage tambahan. Efek ini menjadikan Badang sangat berbahaya dalam pertarungan jarak dekat karena mampu mengunci posisi lawan dan menciptakan peluang besar untuk melakukan kombo mematikan.\n\n🔵 SKILL 1 - FIST WIND:\nBadang melepaskan gelombang pukulan ke arah depan yang menghasilkan Physical Damage kepada seluruh musuh di jalurnya. Setelah mengenai target atau mencapai jarak maksimum, gelombang tersebut akan meledak dan memberikan damage tambahan di area sekitar. Skill ini sangat efektif untuk membersihkan minion, melakukan poke dari jarak aman, maupun mempersiapkan posisi lawan sebelum dikombinasikan dengan Skill 2 dan Ultimate.\n\n🟡 SKILL 2 - FIST BREAK:\nBadang melakukan dash ke arah yang ditentukan dan menghantam musuh pertama yang ditemuinya. Setelah dash selesai, Badang akan menciptakan dinding energi di belakang target yang bertahan selama beberapa detik. Dinding tersebut dapat menghalangi pergerakan musuh dan menjadi kombinasi sempurna dengan pasif Chivalry Fist karena memungkinkan Badang memberikan efek Stun berulang saat mendorong lawan ke arah tembok energi tersebut.\n\n💜 ULTIMATE (SKILL 3) - FIST CRACK:\nBadang melepaskan rentetan pukulan super cepat ke arah depan dan menghasilkan Physical Damage berkali-kali dalam waktu singkat. Selama Ultimate berlangsung, musuh yang terjebak di depan Badang akan terus menerima serangan bertubi-tubi yang sangat mematikan. Jika target berada di dekat dinding hasil Skill 2 atau tembok map, peluang mereka untuk melarikan diri menjadi sangat kecil. Ultimate ini merupakan sumber burst damage utama Badang dan sering digunakan untuk menghabisi Marksman, Mage, maupun Fighter lawan hanya dalam beberapa detik.",
     "best_build": "\n\nWarrior Boots:\n(Menambah Physical Defense dan meningkatkan daya tahan saat bertarung di garis depan),\n\nGolden Staff:\n(Meningkatkan frekuensi serangan sehingga efek pasif Badang lebih sering aktif),\n\nDemon Hunter Sword:\n(Memberikan Physical Damage tambahan berdasarkan HP target dan sangat efektif melawan Tank),\n\nCorrosion Scythe:\n(Menambah Attack Speed tinggi serta memberikan efek Slow kepada musuh yang terkena Basic Attack),\n\nMalefic Roar:\n(Menembus Physical Defense musuh dalam jumlah besar terutama pada fase late game),\n\nBlade of Despair:\n(Memberikan Physical Attack tertinggi untuk memaksimalkan burst damage dari Ultimate Badang)",
-    "skill_pasif_URL": "",
-    "skill1_URL": "",
-    "skill2_URL": "",
-    "skill_ult_URL": ""
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Chivalry_Fist.png/revision/latest?cb=20200829035801",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Fist_Wind.png/revision/latest?cb=20200829035816",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Fist_Break.png/revision/latest?cb=20200829035733",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Fist_Crack.png/revision/latest?cb=20200829035747"
   },
   {
     "her": "Balmond",
     "roll": "Fighter | Damage, Regen",
-    "URL": "",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20251110110543",
     "stat_durability": "80",
     "stat_offense": "75",
     "stat_control": "30",
@@ -202,15 +218,15 @@
     "skill_title": "Bloodthirst (Pasif) [Combo: Skill 2 -> Skill 1 -> Basic Attack -> Ultimate]",
     "skill_desc": "🔴 PASIF - BLOODTHIRST:\nBalmond memiliki naluri bertarung yang sangat buas dan mampu memulihkan HP setiap kali berhasil mengeliminasi lawan. Saat hero musuh tereliminasi di dekatnya, Balmond akan memulihkan sebagian besar HP miliknya secara instan. Jika yang tereliminasi adalah Minion atau Creep Jungle, ia tetap mendapatkan regenerasi HP dalam jumlah tertentu. Pasif ini membuat Balmond mampu bertahan lebih lama di lane maupun jungle tanpa harus sering kembali ke Base. Dalam teamfight besar, efek regenerasi dari Bloodthirst sering kali membuat Balmond tetap hidup meskipun berada di tengah kerumunan lawan.\n\n🔵 SKILL 1 - SOUL LOCK:\nBalmond melakukan charge ke arah yang ditentukan dengan kecepatan tinggi dan memberikan Physical Damage kepada seluruh musuh yang dilewatinya. Setelah mengenai target, Balmond akan menghentikan pergerakannya dan menghasilkan damage tambahan. Skill ini sangat berguna untuk mengejar musuh yang kabur, membuka pertarungan, melintasi tembok tipis, maupun mengamankan posisi sebelum menggunakan Skill 2 atau Ultimate. Mobilitas yang diberikan Soul Lock membuat Balmond jauh lebih fleksibel dalam berbagai situasi pertempuran.\n\n🟡 SKILL 2 - CYCLONE SWEEP:\nBalmond memutar kapaknya dengan brutal selama beberapa detik dan memberikan Physical Damage berkali-kali kepada seluruh musuh di sekitarnya. Semakin lama target berada di dalam area putaran kapak tersebut, semakin besar total damage yang mereka terima. Skill ini menjadi sumber damage utama Balmond saat membersihkan minion, farming jungle, maupun melakukan teamfight. Karena memiliki area yang luas dan cooldown relatif singkat, Cyclone Sweep sangat efektif untuk memberikan tekanan terus menerus kepada lawan.\n\n💜 ULTIMATE (SKILL 3) - LETHAL COUNTER:\nBalmond melompat dan menghantamkan kapaknya ke tanah dengan kekuatan penuh, menghasilkan True Damage yang sangat besar di area target. Damage skill ini akan meningkat berdasarkan jumlah HP lawan yang hilang sehingga sangat efektif digunakan sebagai finisher untuk menghabisi hero musuh yang sekarat. Selain itu, Lethal Counter juga menjadi salah satu skill terbaik untuk mengamankan objektif besar seperti Turtle dan Lord karena menghasilkan burst damage instan yang sulit ditandingi oleh hero lain. Ultimate ini menjadikan Balmond ancaman serius sepanjang permainan dari early hingga late game.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi Crowd Control musuh sekaligus memberikan tambahan Magic Defense),\n\nWar Axe:\n(Memberikan Physical Attack, Cooldown Reduction, HP tambahan, dan efek peningkatan damage saat bertarung),\n\nHunter Strike:\n(Menambah Physical Penetration tinggi serta bonus Movement Speed setelah menghasilkan damage berturut-turut),\n\nBrute Force Breastplate:\n(Meningkatkan Physical Defense, Magic Defense, dan Movement Speed saat menggunakan skill atau menyerang),\n\nQueen's Wings:\n(Mengurangi damage yang diterima saat HP rendah sekaligus meningkatkan Spell Vamp untuk sustain lebih kuat),\n\nImmortality:\n(Memberikan kesempatan hidup kedua agar Balmond dapat kembali bertarung setelah tereliminasi)",
-    "skill_pasif_URL": "",
-    "skill1_URL": "",
-    "skill2_URL": "",
-    "skill_ult_URL": ""
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Bloodthirst.png/revision/latest?cb=20220624121727",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Soul_Lock.png/revision/latest?cb=20220624121809",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Cyclone_Sweep.png/revision/latest?cb=20220624121821",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Lethal_Counter.png/revision/latest?cb=20220624121847"
   },
   {
     "her": "Bane",
     "roll": "Fighter | Push, Burst",
-    "URL": "",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
     "stat_durability": "65",
     "stat_offense": "80",
     "stat_control": "40",
@@ -218,15 +234,15 @@
     "skill_title": "Shark Bite (Pasif) [Combo: Skill 1 -> Basic Attack (Pasif) -> Skill 2 -> Ultimate]",
     "skill_desc": "🔴 PASIF - SHARK BITE:\nBane memanfaatkan kutukan lautan untuk memperkuat serangan dasarnya. Setelah menggunakan skill apa pun, Basic Attack berikutnya akan diperkuat dan menghasilkan Physical Damage tambahan yang besar kepada target utama serta musuh di sekitarnya. Damage tambahan ini akan meningkat seiring bertambahnya Physical Attack yang dimiliki Bane. Efek area dari Shark Bite membuat Bane sangat efektif untuk membersihkan minion, menghancurkan turret, dan memberikan tekanan besar dalam teamfight. Pasif ini juga menjadi alasan mengapa Bane mampu memberikan damage tinggi meskipun menggunakan build semi-tank.\n\n🔵 SKILL 1 - CRAB CLAW CANNON:\nBane menembakkan peluru meriam ke arah target yang ditentukan dan memberikan Physical Damage besar kepada musuh pertama yang terkena. Setelah mengenai target, peluru akan memantul ke musuh terdekat lainnya dan menghasilkan damage tambahan. Jika tidak ada target lain di sekitar, pantulan akan kembali mengenai target utama sehingga total damage menjadi jauh lebih besar. Skill ini sangat efektif untuk poke dari jarak jauh maupun mengurangi HP lawan sebelum memulai teamfight.\n\n🟡 SKILL 2 - RUM:\nBane meminum ramuan spesial dari lautan dan langsung memulihkan HP dalam jumlah besar. Setelah menggunakan skill ini, Movement Speed Bane juga meningkat untuk beberapa saat sehingga memudahkannya mengejar musuh atau melarikan diri dari situasi berbahaya. Selain memberikan sustain yang kuat saat laning maupun teamfight, skill ini juga memperkuat serangan berikutnya melalui efek pasif Shark Bite sehingga menghasilkan kombinasi damage dan regenerasi yang sangat baik.\n\n💜 ULTIMATE (SKILL 3) - DEADLY CATCH:\nBane memanggil armada monster laut raksasa yang bergerak ke arah target dan menghancurkan segala sesuatu di jalurnya. Musuh yang terkena akan menerima Physical Damage besar serta efek Slow yang signifikan. Selain menyerang hero lawan, monster laut tersebut juga menghasilkan damage tinggi kepada turret sehingga menjadikan Bane salah satu hero push terbaik di Mobile Legends. Ultimate ini sangat efektif digunakan untuk membuka teamfight, mengamankan objektif, maupun menghancurkan base lawan dengan cepat.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi Crowd Control sekaligus memberikan tambahan Magic Defense),\n\nWar Axe:\n(Meningkatkan Physical Attack, HP, dan damage berkelanjutan selama pertarungan),\n\nHunter Strike:\n(Menambah Physical Penetration tinggi serta bonus Movement Speed setelah menghasilkan damage berturut-turut),\n\nEndless Battle:\n(Memberikan True Damage tambahan setelah menggunakan skill dan sangat sinergis dengan pasif Shark Bite),\n\nMalefic Roar:\n(Menembus Physical Defense musuh dalam jumlah besar terutama saat menghadapi Tank),\n\nBlade of Despair:\n(Memberikan Physical Attack tertinggi untuk memaksimalkan seluruh damage skill dan pasif Bane)",
-    "skill_pasif_URL": "",
-    "skill1_URL": "",
-    "skill2_URL": "",
-    "skill_ult_URL": ""
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Shark_Bite.png/revision/latest?cb=20210519073932",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Crab_Claw_Cannon.png/revision/latest?cb=20210519073958",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Ale.png/revision/latest?cb=20210519074017",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Deadly_Catch.png/revision/latest?cb=20210519074033"
   },
   {
     "her": "Barats",
     "roll": "Tank | Damage, Crowd Control",
-    "URL": "",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20241021143047",
     "stat_durability": "90",
     "stat_offense": "70",
     "stat_control": "80",
@@ -234,15 +250,15 @@
     "skill_title": "Big Guy (Pasif) [Combo: Skill 1 -> Skill 2 -> Basic Attack -> Ultimate -> Skill 1]",
     "skill_desc": "🔴 PASIF - BIG GUY:\nBarats dan sahabat dinosaurusnya, Detona, memperoleh stack Big Guy setiap kali berhasil memberikan damage kepada hero, minion, atau monster lawan. Setiap stack akan meningkatkan ukuran tubuh Detona secara bertahap serta memberikan tambahan Hybrid Defense yang membuat Barats semakin sulit dibunuh. Saat jumlah stack mencapai tingkat tinggi, ukuran Detona menjadi sangat besar dan seluruh skill Barats memperoleh area jangkauan yang lebih luas. Efek ini menjadikan Barats salah satu Tank-Fighter paling kuat dalam pertarungan panjang karena semakin lama ia bertempur, semakin besar pula ketahanan dan ancaman yang dimilikinya.\n\n🔵 SKILL 1 - SO-CALLED TEAMWORK:\nDetona menyemburkan cairan beracun ke area yang ditentukan dan memberikan Physical Damage kepada seluruh musuh yang terkena. Setelah beberapa saat, area tersebut akan meledak dan menghasilkan damage tambahan. Jika target terkena semburan maupun ledakan secara bersamaan, mereka akan menerima total damage yang jauh lebih besar. Skill ini sangat efektif untuk membersihkan minion, mengumpulkan stack pasif, melakukan poke dari jarak aman, serta memberikan tekanan berkelanjutan selama teamfight berlangsung.\n\n🟡 SKILL 2 - MISSILE \"EXPERT\":\nBarats menembakkan rantai pengait ke arah target dan memberikan Physical Damage kepada musuh pertama yang terkena. Setelah berhasil mengenai lawan, Barats akan menarik target ke arahnya dan langsung menyeruduk ke depan bersama Detona, menghasilkan damage tambahan sekaligus efek Crowd Control. Skill ini menjadi alat utama Barats untuk menculik hero lawan, mengganggu posisi Marksman musuh, serta membuka peluang besar bagi rekan satu tim untuk melakukan follow-up serangan.\n\n💜 ULTIMATE (SKILL 3) - DETONA'S WELCOME:\nDetona membuka mulut raksasanya dan menelan satu hero musuh yang berada dalam jangkauan. Target yang tertelan akan kehilangan kemampuan untuk bergerak maupun menggunakan skill selama beberapa saat. Setelah durasi berakhir, Detona akan memuntahkan target ke arah yang ditentukan dan memberikan Physical Damage besar saat mendarat. Ultimate ini merupakan salah satu skill Crowd Control paling mengerikan di Mobile Legends karena mampu menghilangkan hero penting lawan dari teamfight dan memindahkannya ke posisi yang sangat berbahaya.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi Crowd Control sekaligus memberikan tambahan Magic Defense),\n\nDominance Ice:\n(Mengurangi Attack Speed musuh di sekitar serta menekan efek Regen dan Shield lawan),\n\nAntique Cuirass:\n(Mengurangi Physical Attack lawan yang berhasil mengenai Barats dengan skill mereka),\n\nAthena's Shield:\n(Memberikan perlindungan besar terhadap burst damage Mage musuh),\n\nGuardian Helmet:\n(Meningkatkan HP dalam jumlah besar dan memberikan regenerasi HP yang sangat tinggi di luar pertempuran),\n\nImmortality:\n(Memberikan kesempatan hidup kedua agar Barats dapat kembali melindungi tim saat late game)",
-    "skill_pasif_URL": "",
-    "skill1_URL": "",
-    "skill2_URL": "",
-    "skill_ult_URL": ""
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Big_Guy.png/revision/latest?cb=20240104040408",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/So-Called_Teamwork.png/revision/latest?cb=20240104040431",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Missile_%27Expert%27.png/revision/latest?cb=20240104040506",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Detona%27s_Welcome.png/revision/latest?cb=20240104040522"
   },
   {
     "her": "Baxia",
     "roll": "Tank | Support, Damage",
-    "URL": "",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20241021142746",
     "stat_durability": "90",
     "stat_offense": "55",
     "stat_control": "65",
@@ -250,10 +266,10 @@
     "skill_title": "Baxia Mark (Pasif) [Combo: Skill 2 -> Skill 1 -> Ultimate -> Spam Skill 2]",
     "skill_desc": "🔴 PASIF - BAXIA MARK:\nBaxia diberkahi kekuatan suci yang membuatnya mampu menekan kemampuan regenerasi musuh secara signifikan. Seluruh hero lawan yang menerima damage dari Baxia akan terkena efek Baxia Mark yang mengurangi pemulihan HP, Shield, Lifesteal, Spell Vamp, dan efek regenerasi lainnya. Selain itu, Baxia juga memperoleh pengurangan damage yang diterimanya dari berbagai sumber sehingga membuatnya jauh lebih tangguh dibandingkan Tank biasa. Pasif ini sangat efektif digunakan untuk menghadapi hero dengan kemampuan regen tinggi seperti Esmeralda, Uranus, Ruby, Alpha, dan hero sustain lainnya.\n\n🔵 SKILL 1 - BAXIA-SHIELD UNITY:\nBaxia melompat ke dalam perisai raksasanya dan berubah menjadi bola yang menggelinding dengan kecepatan tinggi. Selama mode ini aktif, Baxia memperoleh peningkatan Movement Speed yang sangat besar dan dapat melintasi sebagian medan pertempuran dengan mudah. Saat mengenai hero lawan, Baxia akan menghentikan pergerakannya, memberikan Magic Damage, dan menyebabkan efek Stun singkat. Skill ini sangat efektif untuk melakukan rotasi cepat, membuka teamfight, mengejar musuh yang melarikan diri, maupun mengganggu posisi hero inti lawan.\n\n🟡 SKILL 2 - SHIELD OF SPIRIT:\nBaxia melepaskan energi dari perisainya ke arah target dan memberikan Magic Damage. Setelah mengenai target, skill ini akan meninggalkan tanda energi khusus yang memperkuat serangan berikutnya. Jika Baxia terus menyerang target yang sama menggunakan skill ini, cooldown-nya dapat berkurang secara signifikan sehingga memungkinkan spam damage secara terus menerus. Skill ini menjadi sumber damage utama Baxia baik saat laning, jungle, maupun teamfight panjang.\n\n💜 ULTIMATE (SKILL 3) - TORTOISE'S PUISSANCE:\nBaxia mengaktifkan kekuatan penuh dari artefak sucinya dan memasuki mode tempur khusus. Selama durasi Ultimate berlangsung, Baxia memperoleh peningkatan Movement Speed, memperkuat seluruh skill miliknya, serta meninggalkan jejak lava energi di jalur yang dilewatinya. Musuh yang berdiri di atas area tersebut akan menerima Magic Damage berkala dan terkena efek Slow. Selain meningkatkan kemampuan bertarung Baxia secara keseluruhan, Ultimate ini juga membuat efek pengurangan regenerasi dari pasifnya menjadi semakin mengerikan dalam teamfight.",
     "best_build": "\n\nTough Boots:\n(Mengurangi durasi Crowd Control sekaligus memberikan tambahan Magic Defense),\n\nCursed Helmet:\n(Memberikan HP besar dan efek burn berkelanjutan kepada musuh di sekitar),\n\nDominance Ice:\n(Mengurangi Attack Speed lawan serta memperkuat efek anti-heal dari Baxia Mark),\n\nAthena's Shield:\n(Memberikan perlindungan tinggi terhadap burst damage Mage musuh),\n\nAntique Cuirass:\n(Mengurangi Physical Attack lawan yang berhasil menyerang Baxia menggunakan skill),\n\nImmortality:\n(Memberikan kesempatan hidup kedua sehingga Baxia dapat kembali melindungi tim pada fase late game)",
-    "skill_pasif_URL": "",
-    "skill1_URL": "",
-    "skill2_URL": "",
-    "skill_ult_URL": ""
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Baxia_Mark.png/revision/latest?cb=20220622095220",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Shield_Unity.png/revision/latest?cb=20220622095232",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Shield_of_Spirit.png/revision/latest?cb=20220622095245",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Tortoise%27s_Puissance.png/revision/latest?cb=20220622095259"
   },
   {
     "her": "Chou",
