@@ -496,6 +496,38 @@
     "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Star_Power_Lockdown.png/revision/latest?cb=20171009130650"
   },
   {
+    "her": "Diggie",
+    "roll": "Support | Guard, Control",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20241021141804",
+    "stat_durability": "40",
+    "stat_offense": "45",
+    "stat_control": "85",
+    "stat_difficulty": "40",
+    "skill_title": "Young Again (Pasif) [Combo: Skill 1 (Tebak Semak) -> Skill 2 (Tarik Musuh) -> Ultimate (Anti-CC Tim)]",
+    "skill_desc": "🔴 PASIF - YOUNG AGAIN:\nSaat tereliminasi, Diggie berubah menjadi telur dan dapat bergerak bebas untuk membuka map. Dalam wujud ini, ia tidak dapat diserang tetapi bisa memberikan sedikit True Damage dan efek vision kepada musuh lewat skill telurnya.\n\n🔵 SKILL 1 - AUTO ALARM BOMB:\nDiggie melemparkan Owl Alarm ke lokasi target. Bom tersebut akan diam di tempat, mengejar musuh terdekat yang mendekat, dan meledak memberikan Magic Damage serta efek slow. Stack bom ini bisa ditimbun untuk damage yang lebih sakit.\n\n🟡 SKILL 2 - REVERSE TIME:\nDiggie mengunci target musuh dan meninggalkan mark. Setelah 4 detik, musuh akan ditarik kembali ke posisi awal mark tersebut dan menerima Magic Damage. Jika musuh mencoba kabur terlalu jauh sebelum waktunya, mereka akan langsung ditarik secara instan.\n\n💜 ULTIMATE (SKILL 3) - TIME JOURNEY:\nDiggie memberikan Shield besar dan kekebalan terhadap semua efek Crowd Control (Immune) kepada dirinya sendiri serta seluruh rekan tim yang berada di sekitarnya selama 2.5 detik. Skill ini juga meningkatkan Movement Speed mereka.",
+    "best_build": "\n\nTough Boots - Favor:\n(Mengurangi durasi CC pada Diggie sekaligus memulihkan HP teman satu tim yang sekarat di sekitar),\n\nFleeting Time:\n(Item inti agar cooldown Ultimate berkurang drastis setiap kali tim mendapatkan Kill atau Assist),\n\nEnchanted Talisman:\n(Memberikan Mana Regen masif agar Diggie bisa terus melakukan spam bom burung di area pertahanan),\n\nDominance Ice:\n(Mengurangi efek Regen/Shield musuh serta menurunkan Attack Speed hero core lawan yang mendekat),\n\nAthena's Shield:\n(Menahan ledakan Magic Damage besar dari mage tipe burst musuh agar Diggie tidak mati instan),\n\nImmortality:\n(Memberikan asuransi nyawa kedua di late game agar tetap bisa menyelamatkan tim dari sabetan CC lawan)",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Young_Again.png/revision/latest?cb=20211002145722",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Auto_Alarm_Bomb.png/revision/latest?cb=20211002145736",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Reverse_Time.png/revision/latest?cb=20211002145746",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Time_Journey.png/revision/latest?cb=20211002145917"
+  },
+  {
+    "her": "Dyrroth",
+    "roll": "Fighter | Charge, Burst",
+    "URL": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20250917081250",
+    "stat_durability": "65",
+    "stat_offense": "85",
+    "stat_control": "50",
+    "stat_difficulty": "45",
+    "skill_title": "Wrath of the Abyss (Pasif) [Combo: Skill 2 (Fase 1 & 2/Hancurkan Armor) -> Skill 1 -> Ultimate (Eksekusi)]",
+    "skill_desc": "🔴 PASIF - WRATH OF THE ABYSS:\nSetiap 2 Basic Attack, Dyrroth melepaskan Circle Strike yang memberikan Physical Damage area dan memulihkan HP-nya. Setiap kali Rage miliknya mencapai 50%, skill 1 dan skill 2 miliknya akan mendapatkan efek tambahan (Enhanced).\n\n🔵 SKILL 1 - BURST STRIKE:\nDyrroth melepaskan Burst Strike ke arah depan, memberikan Physical Damage dan menyebabkan efek slow. Jika dalam mode Enhanced, jarak serangan menjadi lebih jauh dan efek slow yang diberikan meningkat secara drastis.\n\n🟡 SKILL 2 - SPECTRE STEP:\nDyrroth melakukan dash ke depan dan memberikan Physical Damage. Gunakan kembali skill ini untuk mengunci target, memberikan physical damage ekstra, serta menghancurkan Physical Defense (Armor) musuh hingga 50% (75% jika dalam mode Enhanced).\n\n💜 ULTIMATE (SKILL 3) - ABYSMAL STRIKE:\nDyrroth mengisi energi secara singkat lalu menusuk ke depan dengan fatal, memberikan Physical Damage masif ditambah persentase HP musuh yang hilang, serta menyebabkan efek slow berat pada semua musuh di jalurnya.",
+    "best_build": "\n\nWarrior Boots:\n(Menambah Physical Defense awal agar tangguh saat melakukan adu jotos satu lawan satu di Exp Lane),\n\nHunter Strike:\n(Memberikan Physical Penetration dan tambahan Movement Speed instan untuk mengejar atau menculik lawan),\n\nBlade of Heptaseas:\n(Memicu damage kejutan yang sangat besar pada Basic Attack pertama setelah Dyrroth bersembunyi di semak),\n\nBlade of Despair:\n(Meningkatkan Physical Attack secara ekstrem untuk memaksimalkan damage eksekusi dari Abysmal Strike),\n\nMalefic Roar:\n(Membuat pengurangan armor dari skill 2 semakin mutlak, sangat ampuh untuk menembus tank sekeras apa pun),\n\nBrute Force Breastplate:\n(Memberikan keseimbangan antara HP, defense, dan ketahanan CC saat Dyrroth masuk ke tengah pertarungan)",
+    "skill_pasif_URL": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Wrath_of_the_Abyss.png/revision/latest?cb=20250917081930",
+    "skill1_URL": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Burst_Strike.png/revision/latest?cb=20250917081928",
+    "skill2_URL": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Spectre_Step.png/revision/latest?cb=20250917081929",
+    "skill_ult_URL": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Abysm_Strike.png/revision/latest?cb=20250917081927"
+  },
+  {
     "her": "Gusion",
     "roll": "Assassin | Chase, Burst",
     "URL": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20241021142006",
