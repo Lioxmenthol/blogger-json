@@ -23,21 +23,21 @@
   {
     "menu_title": "Join Group",
     "menu_sub": "Klik Disini, untuk bergabung ke Group agar mendapatkan info Terbaru",
-    "menu_icon_left": "URL_GAMBAR_GROUP_KAMU",
+    "menu_icon_left": "https://github.com/Lioxmenthol/SC-UNLOCK-TRAIL-2025/raw/refs/heads/main/1774627309845.png",
     "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
     "target_page": "_group"
   },
   {
     "menu_title": "Customer Service",
     "menu_sub": "Klik Disini, Hubungi Admin jika kalian ada kendala.",
-    "menu_icon_left": "URL_GAMBAR_CS_KAMU",
+    "menu_icon_left": "https://github.com/Lioxmenthol/SC-UNLOCK-TRAIL-2025/raw/refs/heads/main/1774627294521.png",
     "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
     "target_page": "_cs"
   },
   {
-    "menu_title": "Menu Tutorial",
+    "menu_title": "Tutorial",
     "menu_sub": "Tonton video panduan penggunaan Zero Tools Skin",
-    "menu_icon_left": "URL_GAMBAR_TUTORIAL_KAMU",
+    "menu_icon_left": "https://github.com/Lioxmenthol/SC-UNLOCK-TRAIL-2025/raw/refs/heads/main/1774627328590.png",
     "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
     "target_page": "_tutorial"
   }
