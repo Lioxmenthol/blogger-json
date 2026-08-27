@@ -1,0 +1,44 @@
+[
+  {
+    "menu_title": "Hero Details",
+    "menu_sub": "133+ Hero Database Updated",
+    "menu_icon_left": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/karir-data-scientist.png",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "AllskinActivity"
+  },
+  {
+    "menu_title": "Equipment Guide",
+    "menu_sub": "All Battle Items Updated",
+    "menu_icon_left": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/Thunder_Belt.webp",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "EequipmentActivity"
+  }, 
+  {
+    "menu_title": "WinRate Calculator",
+    "menu_sub": "Matches to target WinRate",
+    "menu_icon_left": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784442663116.png",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "CalculatorActivity"
+  },
+  {
+    "menu_title": "Join Group",
+    "menu_sub": "Klik Disini, untuk bergabung ke Group agar mendapatkan info Terbaru",
+    "menu_icon_left": "https://github.com/Lioxmenthol/SC-UNLOCK-TRAIL-2025/raw/refs/heads/main/1774627309845.png",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "_group"
+  },
+  {
+    "menu_title": "Customer Service",
+    "menu_sub": "Klik Disini, Hubungi Admin jika kalian ada kendala.",
+    "menu_icon_left": "https://github.com/Lioxmenthol/SC-UNLOCK-TRAIL-2025/raw/refs/heads/main/1774627294521.png",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "_cs"
+  },
+  {
+    "menu_title": "Tutorial",
+    "menu_sub": "Tonton video panduan penggunaan Phoenix Tools Skin",
+    "menu_icon_left": "https://github.com/Lioxmenthol/SC-UNLOCK-TRAIL-2025/raw/refs/heads/main/1774627328590.png",
+    "menu_icon_right": "https://github.com/Lioxmenthol/blogger-json/raw/refs/heads/main/1784294441778.png",
+    "target_page": "_tutorial"
+  }
+]
