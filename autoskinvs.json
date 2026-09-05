@@ -1771,5 +1771,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1781326593770_9ed2a760545fd0613548bcc696236a98.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Emote/1781326593778_9ed2a760545fd0613548bcc696236a98.jpg",
     "sort": 40
+  },
+  "Preview Map-1788616711513": {
+    "hero": "Preview Map",
+    "type": "Skin",
+    "skin_name": "Summer",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1788616707479_Screenshot_20260905-210715.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1788616707479_Screenshot_20260905-210715.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/blogger-json/main/uploads/Preview%20Map/1788616707570_Rafaela%20Summer.zip",
+    "sort": 46
   }
 }
